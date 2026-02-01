@@ -1,0 +1,22 @@
+# QueryProvider.tsx
+
+Source: `src/providers/QueryProvider.tsx` (16 lines)
+
+> Client component (`'use client'`).
+
+## Imports
+
+- `react`
+- `@tanstack/react-query`
+- `sonner`
+- `@/lib/query-client`
+
+## Exports
+
+- `QueryProvider`
+
+## Renders
+
+- `<QueryClientProvider>`
+- `<Toaster>`
+
