@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/pay/merchant/page.tsx` (9 lines)
 - `metadata`
 - `Page`
 
+## Renders
+
+- `<MerchantInfo>`
+
