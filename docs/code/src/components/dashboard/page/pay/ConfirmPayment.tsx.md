@@ -25,3 +25,13 @@ Source: `src/components/dashboard/page/pay/ConfirmPayment.tsx` (67 lines)
 
 - `useLang`
 
+## Renders
+
+- `<PageHeading>`
+- `<PayStepper>`
+- `<Card>`
+- `<ShieldCheck>`
+- `<Button>`
+- `<Link>`
+- `<Wallet>`
+
