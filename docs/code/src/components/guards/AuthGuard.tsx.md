@@ -19,3 +19,8 @@ Source: `src/components/guards/AuthGuard.tsx` (33 lines)
 
 - `AuthGuard`
 
+## Hooks used
+
+- `useLang`
+- `useQuery`
+
