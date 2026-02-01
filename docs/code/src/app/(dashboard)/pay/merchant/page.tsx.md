@@ -7,3 +7,8 @@ Source: `src/app/(dashboard)/pay/merchant/page.tsx` (9 lines)
 - `@/components/dashboard/page/pay/MerchantInfo`
 - `@/i18n/en.json`
 
+## Exports
+
+- `metadata`
+- `Page`
+
