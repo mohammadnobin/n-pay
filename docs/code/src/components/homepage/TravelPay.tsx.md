@@ -19,3 +19,15 @@ Source: `src/components/homepage/TravelPay.tsx` (103 lines)
 
 - `TravelPay`
 
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Reveal>`
+- `<Image>`
+- `<Button>`
+- `<Link>`
+- `<ArrowUpRight>`
+- `<Store>`
