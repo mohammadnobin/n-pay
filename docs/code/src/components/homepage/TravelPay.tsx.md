@@ -31,3 +31,5 @@ Source: `src/components/homepage/TravelPay.tsx` (103 lines)
 - `<Link>`
 - `<ArrowUpRight>`
 - `<Store>`
+- `<CheckCircle2>`
+
