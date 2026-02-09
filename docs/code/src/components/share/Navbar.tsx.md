@@ -33,3 +33,15 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 - `usePreviewSignedIn`
 - `useLang`
 
+## Renders
+
+- `<Brand>`
+- `<Link>`
+- `<LanguageSwitcher>`
+- `<ThemeToggle>`
+- `<Button>`
+- `<ToggleRight>`
+- `<ToggleLeft>`
+- `<X>`
+- `<Menu>`
+
