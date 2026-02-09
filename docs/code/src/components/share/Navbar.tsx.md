@@ -30,3 +30,6 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 - `useEffect`
 - `useMobileMenu`
 - `usePathname`
+- `usePreviewSignedIn`
+- `useLang`
+
