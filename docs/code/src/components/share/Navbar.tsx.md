@@ -22,3 +22,11 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 
 - `Navbar`
 
+## Hooks used
+
+- `useHeaderState`
+- `useState`
+- `useRef`
+- `useEffect`
+- `useMobileMenu`
+- `usePathname`
