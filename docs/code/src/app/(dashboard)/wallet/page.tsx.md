@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/wallet/page.tsx` (9 lines)
 - `metadata`
 - `Page`
 
+## Renders
+
+- `<WalletOverview>`
+
