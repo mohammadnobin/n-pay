@@ -12,3 +12,9 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 - `@tanstack/react-query`
 - `@/schemas/auth.schema`
 - `@/store/authStore`
+- `@/hooks/useAuth`
+- `@/lib/query-keys`
+- `next/link`
+- `next/navigation`
+- `@/components/ui/button`
+- `@/components/ui/input`
