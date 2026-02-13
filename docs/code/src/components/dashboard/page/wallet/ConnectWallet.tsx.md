@@ -12,3 +12,9 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 - `@/hooks/useLang`
 - `@/components/ui/card`
 - `@/components/ui/button`
+- `@/components/share/PageHeading`
+- `@/hooks/useWallet`
+- `@/constants/dashboard`
+- `@/constants/routes`
+- `@/lib/utils`
+
