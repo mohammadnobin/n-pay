@@ -18,3 +18,7 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 - `next/navigation`
 - `@/components/ui/button`
 - `@/components/ui/input`
+- `@/lib/axios`
+- `@/lib/utils`
+- `@/constants/routes`
+
