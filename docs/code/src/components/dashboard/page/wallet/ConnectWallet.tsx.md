@@ -22,3 +22,9 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 
 - `ConnectWallet`
 
+## Hooks used
+
+- `useLang`
+- `useRouter`
+- `useWallet`
+
