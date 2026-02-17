@@ -21,3 +21,10 @@ Source: `src/components/share/SecureInput.tsx` (38 lines)
 - `useLang`
 - `useState`
 
+## Renders
+
+- `<Icon>`
+- `<Input>`
+- `<EyeOff>`
+- `<Eye>`
+
