@@ -22,3 +22,7 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 - `@/lib/utils`
 - `@/constants/routes`
 
+## Exports
+
+- `OtpForm`
+
