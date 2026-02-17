@@ -12,3 +12,12 @@ Source: `src/components/share/SecureInput.tsx` (38 lines)
 - `@/components/ui/input`
 - `@/lib/utils`
 
+## Exports
+
+- `SecureInput`
+
+## Hooks used
+
+- `useLang`
+- `useState`
+
