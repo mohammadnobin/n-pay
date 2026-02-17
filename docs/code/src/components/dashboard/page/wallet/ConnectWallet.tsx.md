@@ -28,3 +28,11 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 - `useRouter`
 - `useWallet`
 
+## Renders
+
+- `<PageHeading>`
+- `<Wallet>`
+- `<Check>`
+- `<Plus>`
+- `<Card>`
+- `<Button>`
