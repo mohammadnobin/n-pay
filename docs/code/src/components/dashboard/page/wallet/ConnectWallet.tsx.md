@@ -18,3 +18,7 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 - `@/constants/routes`
 - `@/lib/utils`
 
+## Exports
+
+- `ConnectWallet`
+
