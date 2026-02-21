@@ -26,3 +26,11 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 
 - `OtpForm`
 
+## Hooks used
+
+- `useLang`
+- `useRouter`
+- `useQueryClient`
+- `useAuthStore`
+- `useVerifyOtp`
+
