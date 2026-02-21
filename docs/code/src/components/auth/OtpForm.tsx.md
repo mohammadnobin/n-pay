@@ -34,3 +34,9 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 - `useAuthStore`
 - `useVerifyOtp`
 
+## Renders
+
+- `<Button>`
+- `<Link>`
+- `<Input>`
+
