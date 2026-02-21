@@ -36,3 +36,6 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 - `<Plus>`
 - `<Card>`
 - `<Button>`
+- `<Link>`
+- `<ArrowLeft>`
+
