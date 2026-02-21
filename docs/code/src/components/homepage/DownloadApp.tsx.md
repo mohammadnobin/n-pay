@@ -12,3 +12,11 @@ Source: `src/components/homepage/DownloadApp.tsx` (165 lines)
 - `@/lib/utils`
 - `@/components/share/Reveal`
 
+## Exports
+
+- `DownloadApp`
+
+## Hooks used
+
+- `useLang`
+
