@@ -6,3 +6,11 @@ Source: `src/style/globals.css` (390 lines)
 
 - `tailwindcss`
 
+## Variables
+
+- `--background`
+- `--foreground`
+- `--card`
+- `--muted`
+- `--muted-foreground`
+- `--border`
