@@ -9,3 +9,11 @@ Source: `src/components/homepage/SupportCenter.tsx` (30 lines)
 - `@/hooks/useLang`
 - `@/components/share/Reveal`
 
+## Exports
+
+- `SupportCenter`
+
+## Hooks used
+
+- `useLang`
+
