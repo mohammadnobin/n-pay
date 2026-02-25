@@ -17,3 +17,7 @@ Source: `src/components/homepage/SupportCenter.tsx` (30 lines)
 
 - `useLang`
 
+## Renders
+
+- `<Reveal>`
+
