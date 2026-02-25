@@ -20,3 +20,12 @@ Source: `src/components/homepage/DownloadApp.tsx` (165 lines)
 
 - `useLang`
 
+## Renders
+
+- `<Reveal>`
+- `<StoreButton>`
+- `<Apple>`
+- `<Play>`
+- `<Image>`
+- `<QrCode>`
+
