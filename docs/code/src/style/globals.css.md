@@ -32,3 +32,9 @@ Source: `src/style/globals.css` (390 lines)
 - `--color-border`
 - `--color-primary`
 - `--color-primary-foreground`
+- `--color-accent`
+- `--color-success`
+- `--color-warning`
+- `--color-danger`
+- `--shadow-card`
+- `--shadow-header`
