@@ -14,3 +14,9 @@ Source: `src/style/globals.css` (390 lines)
 - `--muted`
 - `--muted-foreground`
 - `--border`
+- `--primary`
+- `--primary-foreground`
+- `--accent`
+- `--success`
+- `--warning`
+- `--danger`
