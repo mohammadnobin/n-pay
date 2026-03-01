@@ -10,3 +10,7 @@ Source: `src/app/(template)/layout.tsx` (22 lines)
 - `@/components/share/SmoothScroll`
 - `@/components/share/ScrollAura`
 
+## Exports
+
+- `TemplateLayout`
+
