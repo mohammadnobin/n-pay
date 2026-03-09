@@ -60,3 +60,9 @@ Source: `src/style/globals.css` (390 lines)
 - `tbody tr`
 - `th, td`
 - `tbody tr:last-child td`
+- `td`
+- `.eyebrow`
+- `.field-label`
+- `.field-error`
+- `.page-title`
+- `.section-title`
