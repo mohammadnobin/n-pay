@@ -8,3 +8,12 @@ Source: `src/components/share/Brand.tsx` (20 lines)
 - `next/link`
 - `@/lib/utils`
 
+## Exports
+
+- `Brand`
+
+## Renders
+
+- `<Link>`
+- `<ArrowUpRight>`
+
