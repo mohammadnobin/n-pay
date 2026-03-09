@@ -66,3 +66,9 @@ Source: `src/style/globals.css` (390 lines)
 - `.field-error`
 - `.page-title`
 - `.section-title`
+- `.icon-box`
+- `.skip-link`
+- `.skip-link:focus`
+- `details > summary`
+- `details > summary::-webkit-details-marker`
+- `[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3`
