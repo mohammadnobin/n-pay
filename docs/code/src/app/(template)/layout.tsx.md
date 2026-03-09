@@ -14,3 +14,11 @@ Source: `src/app/(template)/layout.tsx` (22 lines)
 
 - `TemplateLayout`
 
+## Renders
+
+- `<SmoothScroll>`
+- `<ScrollAura>`
+- `<SkipLink>`
+- `<Navbar>`
+- `<Footer>`
+

@@ -38,3 +38,25 @@ Source: `src/style/globals.css` (390 lines)
 - `--color-danger`
 - `--shadow-card`
 - `--shadow-header`
+- `--font-sans`
+
+## Selectors
+
+- `:root`
+- `.dark`
+- `*`
+- `body`
+- `button, input, select`
+- `button, a, input, select, summary`
+- `button, a, select, summary`
+- `::selection`
+- `.dark ::selection`
+- `h1, h2, h3`
+- `a`
+- `button:not(:disabled), summary`
+- `select`
+- `table`
+- `th`
+- `tbody tr`
+- `th, td`
+- `tbody tr:last-child td`
