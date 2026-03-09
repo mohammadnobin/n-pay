@@ -7,3 +7,8 @@ Source: `src/app/(dashboard)/security/delete-account/page.tsx` (9 lines)
 - `@/components/dashboard/page/security/DeleteAccount`
 - `@/i18n/en.json`
 
+## Exports
+
+- `metadata`
+- `Page`
+
