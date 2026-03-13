@@ -12,3 +12,9 @@ Source: `src/components/homepage/ContactPage.tsx` (258 lines)
 - `sonner`
 - `lucide-react`
 - `@/hooks/useLang`
+- `@/components/ui/button`
+- `@/components/ui/input`
+- `@/components/ui/select`
+- `@/components/ui/textarea`
+- `@/components/share/Reveal`
+- `@/hooks/useContact`
