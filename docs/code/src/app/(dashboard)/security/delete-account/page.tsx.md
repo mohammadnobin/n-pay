@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/security/delete-account/page.tsx` (9 lines)
 - `metadata`
 - `Page`
 
+## Renders
+
+- `<DeleteAccount>`
+
