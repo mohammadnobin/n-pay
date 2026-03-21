@@ -72,3 +72,22 @@ Source: `src/style/globals.css` (390 lines)
 - `details > summary`
 - `details > summary::-webkit-details-marker`
 - `[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3`
+- ``aria-hidden` layer, so the reduced-motion block below switches the whole set off without taking any meaning with it. */ @keyframes nomi-drift`
+- `0%, 100%`
+- `.anim-drift`
+- `.anim-bob`
+- `.anim-halo`
+- `.anim-orbit`
+- `.anim-pulse-ring`
+- `.anim-zoom`
+- `decoration. Sized in the class so the keyframe stays in step. */ .anim-dash`
+- `[dir="rtl"] .anim-dash`
+- `.anim-sheen`
+- `observer never runs, so the finished state is what gets painted. */ @media (scripting: none)`
+- `[data-reveal]`
+- `*, *::before, *::after`
+- `.ticker`
+- `.ticker-track`
+- `[dir="rtl"] .ticker-track`
+- `.ticker:hover .ticker-track, .ticker:focus-within .ticker-track`
+

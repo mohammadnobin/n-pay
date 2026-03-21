@@ -9,3 +9,18 @@ Source: `src/components/share/Reveal.tsx` (85 lines)
 - `react`
 - `@/lib/utils`
 
+## Exports
+
+- `REVEAL_STEP`
+- `Reveal`
+
+## Hooks used
+
+- `useState`
+- `useEffect`
+
+## Renders
+
+- `<From>`
+- `<HTMLDivElement>`
+

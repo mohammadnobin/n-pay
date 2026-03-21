@@ -18,3 +18,31 @@ Source: `src/components/homepage/ContactPage.tsx` (258 lines)
 - `@/components/ui/textarea`
 - `@/components/share/Reveal`
 - `@/hooks/useContact`
+- `@/schemas/contact.schema`
+- `@/constants/routes`
+- `@/config/env`
+- `@/lib/axios`
+
+## Exports
+
+- `ContactPage`
+
+## Hooks used
+
+- `useLang`
+- `useSendContactMessage`
+
+## Renders
+
+- `<ContactValues>`
+- `<Reveal>`
+- `<Icon>`
+- `<Mail>`
+- `<Link>`
+- `<ArrowRight>`
+- `<Input>`
+- `<Controller>`
+- `<Select>`
+- `<Tag>`
+- `<Textarea>`
+- `<Button>`
