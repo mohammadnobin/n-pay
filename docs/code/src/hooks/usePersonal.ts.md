@@ -26,3 +26,15 @@ Source: `src/hooks/usePersonal.ts` (72 lines)
 - `useVerifyPhone`
 - `useDisconnectWallet`
 
+## Hooks used
+
+- `useQuery`
+- `useMutation`
+- `useDisconnectWallet`
+- `useQueryClient`
+
+## Renders
+
+- `<Wallet>`
+- `<Overview>`
+
