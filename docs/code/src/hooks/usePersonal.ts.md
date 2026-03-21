@@ -19,3 +19,10 @@ Source: `src/hooks/usePersonal.ts` (72 lines)
 - `useProfile`
 - `useResolveMerchant`
 - `useQuote`
+- `useWalletLink`
+- `useVerification`
+- `useApproval`
+- `useAddPhone`
+- `useVerifyPhone`
+- `useDisconnectWallet`
+
