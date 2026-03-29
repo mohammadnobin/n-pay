@@ -23,3 +23,10 @@ Source: `src/components/dashboard/page/pay/QRScanner.tsx` (107 lines)
 - `useRef`
 - `useEffect`
 
+## Renders
+
+- `<HTMLVideoElement>`
+- `<Button>`
+- `<CameraOff>`
+- `<Camera>`
+
