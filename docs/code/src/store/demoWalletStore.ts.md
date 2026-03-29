@@ -6,3 +6,7 @@ Source: `src/store/demoWalletStore.ts` (14 lines)
 
 - `zustand`
 
+## Exports
+
+- `useDemoWalletStore`
+
