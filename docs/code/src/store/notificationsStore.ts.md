@@ -6,3 +6,7 @@ Source: `src/store/notificationsStore.ts` (46 lines)
 
 - `zustand`
 
+## Exports
+
+- `useNotificationsStore`
+

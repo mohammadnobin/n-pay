@@ -17,3 +17,15 @@ Source: `src/components/homepage/Process.tsx` (82 lines)
 
 - `Process`
 
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Reveal>`
+- `<Button>`
+- `<Link>`
+- `<ArrowRight>`
+- `<Icon>`
+
