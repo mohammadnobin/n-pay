@@ -16,3 +16,13 @@ Source: `src/components/dashboard/home/ScanPayBanner.tsx` (70 lines)
 
 - `ScanPayBanner`
 
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Image>`
+- `<Link>`
+- `<ArrowRight>`
+
