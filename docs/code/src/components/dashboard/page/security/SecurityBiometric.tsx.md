@@ -12,3 +12,10 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 - `@/hooks/useSecurity`
 - `@/components/ui/card`
 - `@/components/share/PageHeading`
+- `@/constants/routes`
+- `@/lib/utils`
+
+## Exports
+
+- `SecurityBiometric`
+
