@@ -12,3 +12,7 @@ Source: `src/components/dashboard/home/ScanPayBanner.tsx` (70 lines)
 - `@/hooks/useLang`
 - `@/constants/routes`
 
+## Exports
+
+- `ScanPayBanner`
+
