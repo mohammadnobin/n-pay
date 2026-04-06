@@ -19,3 +19,8 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 
 - `SecurityBiometric`
 
+## Hooks used
+
+- `useLang`
+- `useSecurity`
+
