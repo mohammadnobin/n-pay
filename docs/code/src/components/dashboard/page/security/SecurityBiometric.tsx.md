@@ -24,3 +24,12 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 - `useLang`
 - `useSecurity`
 
+## Renders
+
+- `<Icon>`
+- `<ChevronRight>`
+- `<Link>`
+- `<PageHeading>`
+- `<Card>`
+- `<SettingsRow>`
+
