@@ -9,3 +9,15 @@ Source: `src/app/error.tsx` (18 lines)
 - `@/hooks/useLang`
 - `@/components/ui/button`
 
+## Exports
+
+- `ErrorPage`
+
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Button>`
+
