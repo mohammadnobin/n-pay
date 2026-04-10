@@ -7,3 +7,7 @@ Source: `src/lib/metadata.ts` (20 lines)
 - `next`
 - `@/i18n/en.json`
 
+## Exports
+
+- `pageMetadata`
+
