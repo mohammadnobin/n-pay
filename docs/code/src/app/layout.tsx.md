@@ -17,3 +17,9 @@ Source: `src/app/layout.tsx` (59 lines)
 - `metadata`
 - `RootLayout`
 
+## Renders
+
+- `<ThemeProvider>`
+- `<LangProvider>`
+- `<QueryProvider>`
+
