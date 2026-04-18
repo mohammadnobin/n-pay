@@ -11,3 +11,7 @@ Source: `src/components/share/QueryState.tsx` (41 lines)
 - `@/lib/axios`
 - `@/components/ui/button`
 
+## Exports
+
+- `QueryState`
+
