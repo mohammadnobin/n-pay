@@ -15,3 +15,13 @@ Source: `src/components/share/QueryState.tsx` (41 lines)
 
 - `QueryState`
 
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<AlertCircle>`
+- `<Loader2>`
+- `<Button>`
+
