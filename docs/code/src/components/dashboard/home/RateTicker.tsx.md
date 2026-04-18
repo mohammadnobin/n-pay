@@ -10,3 +10,7 @@ Source: `src/components/dashboard/home/RateTicker.tsx` (56 lines)
 - `@/types`
 - `@/components/share/CoinIcon`
 
+## Exports
+
+- `RateTicker`
+
