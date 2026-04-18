@@ -14,3 +14,7 @@ Source: `src/components/dashboard/SidebarTooltip.tsx` (65 lines)
 
 - `SidebarTooltip`
 
+## Hooks used
+
+- `useLang`
+
