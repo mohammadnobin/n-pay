@@ -18,3 +18,7 @@ Source: `src/components/dashboard/SidebarTooltip.tsx` (65 lines)
 
 - `useLang`
 
+## Renders
+
+- `<HTMLDivElement>`
+
