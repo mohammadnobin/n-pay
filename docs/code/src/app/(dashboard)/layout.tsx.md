@@ -7,3 +7,8 @@ Source: `src/app/(dashboard)/layout.tsx` (13 lines)
 - `next`
 - `@/components/dashboard/DashboardShell`
 
+## Exports
+
+- `metadata`
+- `DashboardLayout`
+
