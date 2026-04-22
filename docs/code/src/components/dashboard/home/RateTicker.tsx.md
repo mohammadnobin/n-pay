@@ -18,3 +18,7 @@ Source: `src/components/dashboard/home/RateTicker.tsx` (56 lines)
 
 - `useLang`
 
+## Renders
+
+- `<CoinIcon>`
+
