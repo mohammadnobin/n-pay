@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/layout.tsx` (13 lines)
 - `metadata`
 - `DashboardLayout`
 
+## Renders
+
+- `<DashboardShell>`
+
