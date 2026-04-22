@@ -7,3 +7,8 @@ Source: `src/app/sitemap.ts` (9 lines)
 - `next`
 - `@/config/env`
 
+## Exports
+
+- `dynamic`
+- `sitemap`
+
