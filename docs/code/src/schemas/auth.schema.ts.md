@@ -6,3 +6,11 @@ Source: `src/schemas/auth.schema.ts` (15 lines)
 
 - `zod`
 
+## Exports
+
+- `phoneSchema`
+- `authSchema`
+- `otpSchema`
+- `secondaryPhoneSchema`
+- `AuthValues`
+
