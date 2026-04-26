@@ -9,3 +9,12 @@ Source: `src/components/ui/alert-dialog.tsx` (26 lines)
 - `@radix-ui/react-alert-dialog`
 - `@/lib/utils`
 
+## Exports
+
+- `AlertDialog`
+- `AlertDialogTrigger`
+- `AlertDialogCancel`
+- `AlertDialogTitle`
+- `AlertDialogDescription`
+- `AlertDialogContent`
+
