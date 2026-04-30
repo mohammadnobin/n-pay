@@ -18,3 +18,9 @@ Source: `src/components/ui/alert-dialog.tsx` (26 lines)
 - `AlertDialogDescription`
 - `AlertDialogContent`
 
+## Renders
+
+- `<AlertDialogPrimitive.Portal>`
+- `<AlertDialogPrimitive.Overlay>`
+- `<AlertDialogPrimitive.Content>`
+
