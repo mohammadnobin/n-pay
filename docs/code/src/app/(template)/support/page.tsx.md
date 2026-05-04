@@ -13,3 +13,8 @@ Source: `src/app/(template)/support/page.tsx` (15 lines)
 - `metadata`
 - `SupportPage`
 
+## Renders
+
+- `<SupportCenter>`
+- `<Faq>`
+
