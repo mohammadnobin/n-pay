@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/profile/phone-numbers/page.tsx` (9 lines)
 - `metadata`
 - `Page`
 
+## Renders
+
+- `<PhoneNumbers>`
+
