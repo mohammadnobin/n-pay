@@ -7,3 +7,8 @@ Source: `src/app/(dashboard)/profile/phone-numbers/page.tsx` (9 lines)
 - `@/components/dashboard/page/profile/PhoneNumbers`
 - `@/i18n/en.json`
 
+## Exports
+
+- `metadata`
+- `Page`
+
