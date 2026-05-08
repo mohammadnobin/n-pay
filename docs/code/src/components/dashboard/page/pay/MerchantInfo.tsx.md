@@ -12,3 +12,11 @@ Source: `src/components/dashboard/page/pay/MerchantInfo.tsx` (74 lines)
 - `@/components/ui/card`
 - `@/components/ui/button`
 - `@/components/share/PageHeading`
+- `./PayStepper`
+- `@/constants/dashboard`
+- `@/constants/routes`
+
+## Exports
+
+- `MerchantInfo`
+
