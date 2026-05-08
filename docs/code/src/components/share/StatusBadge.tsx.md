@@ -14,3 +14,11 @@ Source: `src/components/share/StatusBadge.tsx` (21 lines)
 
 - `StatusBadge`
 
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Badge>`
+
