@@ -13,3 +13,8 @@ Source: `src/app/(template)/contact/page.tsx` (15 lines)
 - `metadata`
 - `Contact`
 
+## Renders
+
+- `<ContactPage>`
+- `<Faq>`
+
