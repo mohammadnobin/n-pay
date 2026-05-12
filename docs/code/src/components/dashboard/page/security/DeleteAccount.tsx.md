@@ -12,3 +12,9 @@ Source: `src/components/dashboard/page/security/DeleteAccount.tsx` (115 lines)
 - `lucide-react`
 - `@/hooks/useLang`
 - `@/hooks/useEditableProfile`
+- `@/components/ui/card`
+- `@/components/ui/button`
+- `@/components/share/IconInput`
+- `@/components/share/PageHeading`
+- `@/schemas/security.schema`
+
