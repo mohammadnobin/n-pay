@@ -8,3 +8,8 @@ Source: `src/app/(template)/contact/page.tsx` (15 lines)
 - `@/components/homepage/Faq`
 - `@/lib/metadata`
 
+## Exports
+
+- `metadata`
+- `Contact`
+
