@@ -22,3 +22,8 @@ Source: `src/components/dashboard/page/security/DeleteAccount.tsx` (115 lines)
 
 - `DeleteAccount`
 
+## Hooks used
+
+- `useLang`
+- `useEditableProfile`
+
