@@ -18,3 +18,7 @@ Source: `src/components/dashboard/page/security/DeleteAccount.tsx` (115 lines)
 - `@/components/share/PageHeading`
 - `@/schemas/security.schema`
 
+## Exports
+
+- `DeleteAccount`
+
