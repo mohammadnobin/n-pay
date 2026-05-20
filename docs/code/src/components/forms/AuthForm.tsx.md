@@ -2,3 +2,5 @@
 
 Source: `src/components/forms/AuthForm.tsx` (196 lines)
 
+> Client component (`'use client'`).
+
