@@ -25,3 +25,11 @@ Source: `src/components/dashboard/page/security/ActiveSessions.tsx` (102 lines)
 - `useLang`
 - `useSecurity`
 
+## Renders
+
+- `<PageHeading>`
+- `<Button>`
+- `<Card>`
+- `<MonitorSmartphone>`
+- `<Badge>`
+- `<Globe>`
