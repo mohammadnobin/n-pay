@@ -33,3 +33,6 @@ Source: `src/components/dashboard/page/security/ActiveSessions.tsx` (102 lines)
 - `<MonitorSmartphone>`
 - `<Badge>`
 - `<Globe>`
+- `<Clock>`
+- `<Trash2>`
+
