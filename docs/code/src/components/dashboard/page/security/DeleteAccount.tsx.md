@@ -27,3 +27,11 @@ Source: `src/components/dashboard/page/security/DeleteAccount.tsx` (115 lines)
 - `useLang`
 - `useEditableProfile`
 
+## Renders
+
+- `<DeleteAccountValues>`
+- `<PageHeading>`
+- `<Card>`
+- `<AlertTriangle>`
+- `<IconInput>`
+- `<MessageSquare>`
