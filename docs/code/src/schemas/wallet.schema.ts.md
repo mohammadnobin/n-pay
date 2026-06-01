@@ -7,3 +7,8 @@ Source: `src/schemas/wallet.schema.ts` (17 lines)
 - `zod`
 - `@/types`
 
+## Exports
+
+- `walletConnectionsSchema`
+- `canLinkWallet`
+
