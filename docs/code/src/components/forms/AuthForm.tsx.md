@@ -39,3 +39,8 @@ Source: `src/components/forms/AuthForm.tsx` (196 lines)
 - `<Globe>`
 - `<Phone>`
 - `<Input>`
+- `<Link>`
+- `<Button>`
+- `<ArrowRight>`
+- `<ShieldCheck>`
+
