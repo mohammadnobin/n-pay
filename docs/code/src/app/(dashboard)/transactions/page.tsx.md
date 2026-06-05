@@ -12,3 +12,7 @@ Source: `src/app/(dashboard)/transactions/page.tsx` (9 lines)
 - `metadata`
 - `Page`
 
+## Renders
+
+- `<TransactionHistory>`
+
