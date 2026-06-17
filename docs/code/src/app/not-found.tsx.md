@@ -18,3 +18,8 @@ Source: `src/app/not-found.tsx` (28 lines)
 
 - `useLang`
 
+## Renders
+
+- `<Illustration>`
+- `<NotFoundContent>`
+
