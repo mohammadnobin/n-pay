@@ -6,3 +6,7 @@ Source: `src/components/ui/input.tsx` (13 lines)
 
 - `@/lib/utils`
 
+## Exports
+
+- `Input`
+
