@@ -16,3 +16,7 @@ Source: `src/components/dashboard/home/LinkedWallet.tsx` (82 lines)
 - `@/lib/utils`
 - `@/types`
 
+## Exports
+
+- `LinkedWallet`
+
