@@ -12,3 +12,7 @@ Source: `src/app/(auth)/layout.tsx` (13 lines)
 - `metadata`
 - `AuthLayout`
 
+## Renders
+
+- `<AuthShell>`
+
