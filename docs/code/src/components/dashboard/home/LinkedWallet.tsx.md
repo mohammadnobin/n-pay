@@ -24,3 +24,11 @@ Source: `src/components/dashboard/home/LinkedWallet.tsx` (82 lines)
 
 - `useLang`
 
+## Renders
+
+- `<Card>`
+- `<Badge>`
+- `<ShieldCheck>`
+- `<WalletIcon>`
+- `<Button>`
+- `<Link>`
