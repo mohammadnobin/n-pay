@@ -15,3 +15,19 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 - `@/lib/axios`
 - `@/components/share/Reveal`
 
+## Exports
+
+- `Banner`
+
+## Hooks used
+
+- `useLang`
+
+## Renders
+
+- `<Reveal>`
+- `<Button>`
+- `<Link>`
+- `<ArrowUpRight>`
+- `<ShieldCheck>`
+- `<Image>`
