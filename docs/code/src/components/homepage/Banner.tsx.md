@@ -31,3 +31,5 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 - `<ArrowUpRight>`
 - `<ShieldCheck>`
 - `<Image>`
+- `<MapPin>`
+
