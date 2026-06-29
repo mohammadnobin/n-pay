@@ -20,3 +20,7 @@ Source: `src/components/dashboard/home/LinkedWallet.tsx` (82 lines)
 
 - `LinkedWallet`
 
+## Hooks used
+
+- `useLang`
+
