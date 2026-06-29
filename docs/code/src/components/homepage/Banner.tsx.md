@@ -12,3 +12,6 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 - `@/hooks/useLang`
 - `@/components/ui/button`
 - `@/constants/routes`
+- `@/lib/axios`
+- `@/components/share/Reveal`
+
