@@ -29,3 +29,9 @@ Source: `src/components/homepage/DownloadApp.tsx` (165 lines)
 - `<Image>`
 - `<QrCode>`
 
+## Outline
+
+- `STORE_LINKS` (const) - line 8
+- `StoreButton` (function) - line 13
+- `DownloadApp` (function) - line 53
+

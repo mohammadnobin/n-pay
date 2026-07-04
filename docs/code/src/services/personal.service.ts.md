@@ -23,3 +23,14 @@ Source: `src/services/personal.service.ts` (133 lines)
 - `<Profile>`
 - `<Quote>`
 
+## Outline
+
+- `checkWallets` (function) - line 9
+- `demoWallets` (function) - line 15
+- `personalService` (const) - line 21
+
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/hooks/usePersonal.ts`
+

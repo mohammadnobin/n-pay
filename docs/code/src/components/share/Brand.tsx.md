@@ -21,3 +21,9 @@ Source: `src/components/share/Brand.tsx` (20 lines)
 
 - `Brand` (function) - line 4
 
+## Imported by
+
+- `src/components/auth/AuthShell.tsx`
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/share/Navbar.tsx`
+

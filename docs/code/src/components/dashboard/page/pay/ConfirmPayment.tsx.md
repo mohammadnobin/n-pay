@@ -35,3 +35,11 @@ Source: `src/components/dashboard/page/pay/ConfirmPayment.tsx` (67 lines)
 - `<Link>`
 - `<Wallet>`
 
+## Outline
+
+- `ConfirmPayment` (function) - line 17
+
+## Imported by
+
+- `src/app/(dashboard)/pay/confirm/page.tsx`
+

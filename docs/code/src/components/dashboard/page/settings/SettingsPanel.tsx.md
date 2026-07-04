@@ -35,3 +35,12 @@ Source: `src/components/dashboard/page/settings/SettingsPanel.tsx` (89 lines)
 - `<Button>`
 - `<LogOut>`
 
+## Outline
+
+- `LINKS` (const) - line 19
+- `SettingsPanel` (function) - line 26
+
+## Imported by
+
+- `src/app/(dashboard)/settings/page.tsx`
+

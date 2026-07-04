@@ -10,3 +10,9 @@ Source: `src/store/walletStore.ts` (44 lines)
 
 - `useWalletStore`
 
+## Outline
+
+- `STORAGE_KEY` (const) - line 5
+- `read` (function) - line 7
+- `useWalletStore` (const) - line 15
+

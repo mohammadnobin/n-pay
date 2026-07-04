@@ -21,3 +21,12 @@ Source: `src/hooks/useWallet.ts` (32 lines)
 - `useWalletStore`
 - `useEffect`
 
+## Outline
+
+- `useWallet` (function) - line 10
+
+## Imported by
+
+- `src/components/dashboard/page/wallet/ConnectWallet.tsx`
+- `src/components/dashboard/page/wallet/WalletOverview.tsx`
+
