@@ -37,3 +37,8 @@ Source: `src/components/dashboard/home/BalanceCard.tsx` (131 lines)
 - `<ArrowRight>`
 - `<CoinIcon>`
 
+## Outline
+
+- `percent` (function) - line 21
+- `BalanceCard` (function) - line 32
+

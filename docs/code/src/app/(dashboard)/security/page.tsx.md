@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/security/page.tsx` (9 lines)
 
 - `<SecurityBiometric>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+
