@@ -17,3 +17,7 @@ Source: `src/components/share/Brand.tsx` (20 lines)
 - `<Link>`
 - `<ArrowUpRight>`
 
+## Outline
+
+- `Brand` (function) - line 4
+
