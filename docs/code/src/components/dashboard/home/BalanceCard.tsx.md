@@ -42,3 +42,7 @@ Source: `src/components/dashboard/home/BalanceCard.tsx` (131 lines)
 - `percent` (function) - line 21
 - `BalanceCard` (function) - line 32
 
+## Imported by
+
+- `src/components/dashboard/DashboardHome.tsx`
+
