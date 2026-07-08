@@ -44,3 +44,14 @@ Source: `src/components/dashboard/page/security/TwoFactorAuth.tsx` (202 lines)
 - `<InfoRow>`
 - `<IconInput>`
 
+## Outline
+
+- `BASE32_ALPHABET` (const) - line 19
+- `generateBase32Secret` (function) - line 21
+- `InfoRow` (function) - line 29
+- `TwoFactorAuth` (function) - line 63
+
+## Imported by
+
+- `src/app/(dashboard)/security/two-factor/page.tsx`
+

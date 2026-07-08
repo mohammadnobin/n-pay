@@ -36,3 +36,11 @@ Source: `src/components/dashboard/page/pay/MerchantInfo.tsx` (74 lines)
 - `<Link>`
 - `<ArrowRight>`
 
+## Outline
+
+- `MerchantInfo` (function) - line 12
+
+## Imported by
+
+- `src/app/(dashboard)/pay/merchant/page.tsx`
+

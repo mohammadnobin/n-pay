@@ -30,3 +30,11 @@ Source: `src/components/dashboard/page/pay/QRScanner.tsx` (107 lines)
 - `<CameraOff>`
 - `<Camera>`
 
+## Outline
+
+- `QRScanner` (function) - line 7
+
+## Imported by
+
+- `src/components/dashboard/page/pay/ScanQr.tsx`
+
