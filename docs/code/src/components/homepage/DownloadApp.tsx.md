@@ -35,3 +35,7 @@ Source: `src/components/homepage/DownloadApp.tsx` (165 lines)
 - `StoreButton` (function) - line 13
 - `DownloadApp` (function) - line 53
 
+## Imported by
+
+- `src/app/(template)/page.tsx`
+
