@@ -16,3 +16,7 @@ Source: `src/store/walletStore.ts` (44 lines)
 - `read` (function) - line 7
 - `useWalletStore` (const) - line 15
 
+## Imported by
+
+- `src/hooks/useWallet.ts`
+

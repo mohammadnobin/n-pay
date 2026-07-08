@@ -11,3 +11,8 @@ Source: `src/schemas/kyc.schema.ts` (10 lines)
 - `kycDetailsSchema`
 - `KycDetailsValues`
 
+## Outline
+
+- `kycDetailsSchema` (const) - line 3
+- `KycDetailsValues` (type) - line 9
+

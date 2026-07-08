@@ -12,3 +12,7 @@ Source: `eslint.config.mjs` (5 lines)
 
 - `defineConfig`
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
