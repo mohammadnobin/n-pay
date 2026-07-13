@@ -71,3 +71,11 @@ Source: `src/components/dashboard/DashboardShell.tsx` (404 lines)
 - `<DialogTitle>`
 - `<DialogDescription>`
 
+## Outline
+
+- `BELOW_DESKTOP` (const) - line 56
+- `BELOW_RAIL` (const) - line 57
+- `useMediaQuery` (function) - line 59
+- `personalNav` (const) - line 75
+- `DashboardShell` (function) - line 86
+
