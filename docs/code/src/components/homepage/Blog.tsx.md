@@ -29,3 +29,7 @@ Source: `src/components/homepage/Blog.tsx` (62 lines)
 - `<Link>`
 - `<BlogMark>`
 
+## Outline
+
+- `Blog` (function) - line 11
+

@@ -30,3 +30,7 @@ Source: `src/components/dashboard/home/ScanPayBanner.tsx` (70 lines)
 
 - `ScanPayBanner` (function) - line 13
 
+## Imported by
+
+- `src/components/dashboard/DashboardHome.tsx`
+
