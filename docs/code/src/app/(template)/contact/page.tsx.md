@@ -18,3 +18,12 @@ Source: `src/app/(template)/contact/page.tsx` (15 lines)
 - `<ContactPage>`
 - `<Faq>`
 
+## Outline
+
+- `metadata` (const) - line 5
+- `Contact` (function) - line 7
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
