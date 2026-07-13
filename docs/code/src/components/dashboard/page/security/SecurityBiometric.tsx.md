@@ -33,3 +33,12 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 - `<Card>`
 - `<SettingsRow>`
 
+## Outline
+
+- `SettingsRow` (function) - line 21
+- `SecurityBiometric` (function) - line 75
+
+## Imported by
+
+- `src/app/(dashboard)/security/page.tsx`
+

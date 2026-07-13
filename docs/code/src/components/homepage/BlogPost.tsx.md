@@ -33,3 +33,12 @@ Source: `src/components/homepage/BlogPost.tsx` (91 lines)
 - `<ArrowRight>`
 - `<ArrowLeft>`
 
+## Outline
+
+- `BlogPost` (function) - line 14
+- `BackLink` (function) - line 80
+
+## Imported by
+
+- `src/app/(template)/blog/details/page.tsx`
+

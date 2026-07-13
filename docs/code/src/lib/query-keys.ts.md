@@ -6,3 +6,15 @@ Source: `src/lib/query-keys.ts` (14 lines)
 
 - `queryKeys`
 
+## Outline
+
+- `queryKeys` (const) - line 1
+
+## Imported by
+
+- `src/components/auth/OtpForm.tsx`
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/guards/AuthGuard.tsx`
+- `src/hooks/useAuth.ts`
+- `src/hooks/usePersonal.ts`
+

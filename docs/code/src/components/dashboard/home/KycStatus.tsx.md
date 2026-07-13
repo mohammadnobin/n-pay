@@ -38,3 +38,16 @@ Source: `src/components/dashboard/home/KycStatus.tsx` (152 lines)
 - `<Link>`
 - `<ArrowRight>`
 
+## Outline
+
+- `HEADLINES` (const) - line 22
+- `CLEARED` (const) - line 30
+- `ICONS` (const) - line 37
+- `TONES` (const) - line 44
+- `TOTAL_STEPS` (const) - line 51
+- `KycStatus` (function) - line 53
+
+## Imported by
+
+- `src/components/dashboard/DashboardHome.tsx`
+

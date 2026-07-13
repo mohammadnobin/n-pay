@@ -35,3 +35,14 @@ Source: `src/components/homepage/Features.tsx` (182 lines)
 - `<ArrowUpRight>`
 - `<KeyRound>`
 
+## Outline
+
+- `Mark` (function) - line 19
+- `Tile` (function) - line 40
+- `STROKE` (const) - line 78
+- `Features` (function) - line 84
+
+## Imported by
+
+- `src/app/(template)/page.tsx`
+

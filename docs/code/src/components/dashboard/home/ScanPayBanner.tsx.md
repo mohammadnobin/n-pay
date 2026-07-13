@@ -26,3 +26,7 @@ Source: `src/components/dashboard/home/ScanPayBanner.tsx` (70 lines)
 - `<Link>`
 - `<ArrowRight>`
 
+## Outline
+
+- `ScanPayBanner` (function) - line 13
+

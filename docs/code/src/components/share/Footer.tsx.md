@@ -24,3 +24,12 @@ Source: `src/components/share/Footer.tsx` (95 lines)
 - `<Link>`
 - `<ArrowUpRight>`
 
+## Outline
+
+- `INK` (const) - line 10
+- `Footer` (function) - line 16
+
+## Imported by
+
+- `src/app/(template)/layout.tsx`
+

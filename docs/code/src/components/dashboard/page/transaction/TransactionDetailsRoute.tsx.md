@@ -21,3 +21,11 @@ Source: `src/components/dashboard/page/transaction/TransactionDetailsRoute.tsx` 
 
 - `<TransactionDetails>`
 
+## Outline
+
+- `TransactionDetailsRoute` (function) - line 8
+
+## Imported by
+
+- `src/app/(dashboard)/transactions/details/page.tsx`
+
