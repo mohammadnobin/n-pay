@@ -33,3 +33,7 @@ Source: `src/components/homepage/Blog.tsx` (62 lines)
 
 - `Blog` (function) - line 11
 
+## Imported by
+
+- `src/app/(template)/page.tsx`
+

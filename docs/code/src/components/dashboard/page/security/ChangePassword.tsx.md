@@ -33,3 +33,11 @@ Source: `src/components/dashboard/page/security/ChangePassword.tsx` (119 lines)
 - `<SecureInput>`
 - `<Button>`
 
+## Outline
+
+- `ChangePassword` (function) - line 16
+
+## Imported by
+
+- `src/app/(dashboard)/security/change-password/page.tsx`
+

@@ -53,3 +53,16 @@ Source: `src/hooks/useLang.tsx` (155 lines)
 - `interpolate` (function) - line 71
 - `applyDocumentLang` (function) - line 81
 - `detectInitialLang` (function) - line 87
+- `LangProvider` (function) - line 100
+- `useLang` (function) - line 148
+
+## Imported by
+
+- `src/app/error.tsx`
+- `src/app/layout.tsx`
+- `src/app/not-found.tsx`
+- `src/components/auth/AuthShowcase.tsx`
+- `src/components/auth/OtpForm.tsx`
+- `src/components/dashboard/DashboardHome.tsx`
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/dashboard/NotificationsMenu.tsx`
