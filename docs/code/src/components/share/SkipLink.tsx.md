@@ -16,3 +16,7 @@ Source: `src/components/share/SkipLink.tsx` (11 lines)
 
 - `useLang`
 
+## Outline
+
+- `SkipLink` (function) - line 3
+

@@ -79,3 +79,7 @@ Source: `src/components/dashboard/DashboardShell.tsx` (404 lines)
 - `personalNav` (const) - line 75
 - `DashboardShell` (function) - line 86
 
+## Imported by
+
+- `src/app/(dashboard)/layout.tsx`
+

@@ -40,3 +40,12 @@ Source: `src/components/dashboard/page/transaction/TransactionHistory.tsx` (106 
 - `<Card>`
 - `<TransactionTable>`
 
+## Outline
+
+- `exportTransactions` (function) - line 17
+- `TransactionHistory` (function) - line 52
+
+## Imported by
+
+- `src/app/(dashboard)/transactions/page.tsx`
+
