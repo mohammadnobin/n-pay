@@ -114,3 +114,14 @@ Source: `src/hooks/useLang.tsx` (155 lines)
 - `src/components/homepage/SupportCenter.tsx`
 - `src/components/homepage/TravelPay.tsx`
 - `src/components/share/ActivityFilterTabs.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/LanguageSwitcher.tsx`
+- `src/components/share/Navbar.tsx`
+- `src/components/share/QueryState.tsx`
+- `src/components/share/SecureInput.tsx`
+- `src/components/share/SkipLink.tsx`
+- `src/components/share/StatusBadge.tsx`
+- `src/components/share/ThemeToggle.tsx`
+- `src/components/ui/dialog.tsx`
+- `src/components/ui/select.tsx`
+

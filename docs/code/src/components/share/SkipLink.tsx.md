@@ -20,3 +20,7 @@ Source: `src/components/share/SkipLink.tsx` (11 lines)
 
 - `SkipLink` (function) - line 3
 
+## Imported by
+
+- `src/app/(template)/layout.tsx`
+

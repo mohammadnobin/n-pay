@@ -41,3 +41,12 @@ Source: `src/components/dashboard/page/kyc/KycDetails.tsx` (162 lines)
 - `<Link>`
 - `<ArrowLeft>`
 
+## Outline
+
+- `KYC_COUNTRIES` (const) - line 17
+- `KycDetails` (function) - line 19
+
+## Imported by
+
+- `src/app/(dashboard)/kyc/details/page.tsx`
+

@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/layout.tsx` (13 lines)
 
 - `<DashboardShell>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `DashboardLayout` (function) - line 6
+

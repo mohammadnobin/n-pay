@@ -12,3 +12,13 @@ Source: `src/schemas/wallet.schema.ts` (17 lines)
 - `walletConnectionsSchema`
 - `canLinkWallet`
 
+## Outline
+
+- `walletConnectionsSchema` (const) - line 4
+- `canLinkWallet` (function) - line 7
+
+## Imported by
+
+- `src/schemas/wallet.test.ts`
+- `src/services/personal.service.ts`
+
