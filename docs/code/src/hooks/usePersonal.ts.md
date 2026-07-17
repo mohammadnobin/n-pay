@@ -38,3 +38,13 @@ Source: `src/hooks/usePersonal.ts` (72 lines)
 - `<Wallet>`
 - `<Overview>`
 
+## Outline
+
+- `useOverview` (const) - line 6
+- `useTransactions` (const) - line 11
+- `useWallets` (const) - line 16
+- `useProfile` (const) - line 21
+- `useResolveMerchant` (const) - line 26
+- `useQuote` (const) - line 28
+- `useWalletLink` (const) - line 30
+- `useVerification` (const) - line 32

@@ -21,3 +21,11 @@ Source: `src/components/homepage/SupportCenter.tsx` (30 lines)
 
 - `<Reveal>`
 
+## Outline
+
+- `SupportCenter` (function) - line 4
+
+## Imported by
+
+- `src/app/(template)/support/page.tsx`
+

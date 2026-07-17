@@ -10,3 +10,7 @@ Source: `open-next.config.ts` (3 lines)
 
 - `defineCloudflareConfig`
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

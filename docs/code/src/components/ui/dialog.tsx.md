@@ -31,3 +31,11 @@ Source: `src/components/ui/dialog.tsx` (37 lines)
 - `<DialogPrimitive.Close>`
 - `<X>`
 
+## Outline
+
+- `Dialog` (const) - line 6
+- `DialogTrigger` (const) - line 7
+- `DialogTitle` (const) - line 8
+- `DialogDescription` (const) - line 9
+- `DialogContent` (function) - line 10
+

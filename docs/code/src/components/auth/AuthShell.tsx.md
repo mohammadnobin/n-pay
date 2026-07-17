@@ -18,3 +18,11 @@ Source: `src/components/auth/AuthShell.tsx` (28 lines)
 - `<Preferences>`
 - `<AuthShowcase>`
 
+## Outline
+
+- `AuthShell` (function) - line 10
+
+## Imported by
+
+- `src/app/(auth)/layout.tsx`
+
