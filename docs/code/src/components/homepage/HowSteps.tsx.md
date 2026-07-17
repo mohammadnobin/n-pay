@@ -26,3 +26,13 @@ Source: `src/components/homepage/HowSteps.tsx` (46 lines)
 - `<Icon>`
 - `<ArrowRight>`
 
+## Outline
+
+- `STEPS` (const) - line 8
+- `HowSteps` (function) - line 14
+
+## Imported by
+
+- `src/components/homepage/HowItWorks.tsx`
+- `src/components/homepage/Services.tsx`
+

@@ -34,3 +34,7 @@ Source: `src/components/dashboard/home/LinkedWallet.tsx` (82 lines)
 - `<Link>`
 - `<ArrowRight>`
 
+## Outline
+
+- `LinkedWallet` (function) - line 15
+
