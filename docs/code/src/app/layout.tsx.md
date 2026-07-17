@@ -23,3 +23,13 @@ Source: `src/app/layout.tsx` (59 lines)
 - `<LangProvider>`
 - `<QueryProvider>`
 
+## Outline
+
+- `figtree` (const) - line 10
+- `metadata` (const) - line 16
+- `RootLayout` (function) - line 31
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
