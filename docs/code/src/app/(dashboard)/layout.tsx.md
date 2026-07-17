@@ -21,3 +21,7 @@ Source: `src/app/(dashboard)/layout.tsx` (13 lines)
 - `metadata` (const) - line 4
 - `DashboardLayout` (function) - line 6
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
