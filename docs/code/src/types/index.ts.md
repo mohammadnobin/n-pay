@@ -56,3 +56,8 @@ Source: `src/types/index.ts` (136 lines)
 - `src/hooks/useWallet.ts`
 - `src/schemas/wallet.schema.ts`
 - `src/schemas/wallet.test.ts`
+- `src/services/auth.service.ts`
+- `src/services/demo-data.ts`
+- `src/services/personal.service.ts`
+- `src/store/profileStore.ts`
+
