@@ -39,3 +39,11 @@ Source: `src/components/dashboard/page/wallet/ConnectWallet.tsx` (89 lines)
 - `<Link>`
 - `<ArrowLeft>`
 
+## Outline
+
+- `ConnectWallet` (function) - line 17
+
+## Imported by
+
+- `src/app/(dashboard)/wallet/connect/page.tsx`
+
