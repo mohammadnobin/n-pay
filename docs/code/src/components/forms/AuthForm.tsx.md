@@ -44,3 +44,12 @@ Source: `src/components/forms/AuthForm.tsx` (196 lines)
 - `<ArrowRight>`
 - `<ShieldCheck>`
 
+## Outline
+
+- `AuthForm` (function) - line 15
+
+## Imported by
+
+- `src/app/(auth)/login/page.tsx`
+- `src/app/(auth)/register/page.tsx`
+

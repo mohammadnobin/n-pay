@@ -31,3 +31,12 @@ Source: `src/components/dashboard/page/pay/PaymentProcessing.tsx` (75 lines)
 - `<Button>`
 - `<Link>`
 
+## Outline
+
+- `STAGES` (const) - line 11
+- `PaymentProcessing` (function) - line 18
+
+## Imported by
+
+- `src/app/(dashboard)/pay/processing/page.tsx`
+

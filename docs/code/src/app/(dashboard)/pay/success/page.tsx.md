@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/pay/success/page.tsx` (9 lines)
 
 - `<PaymentSuccess>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+
