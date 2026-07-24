@@ -47,3 +47,19 @@ Source: `src/components/ui/button.tsx` (33 lines)
 - `src/components/dashboard/page/security/TransactionPin.tsx`
 - `src/components/dashboard/page/security/TwoFactorAuth.tsx`
 - `src/components/dashboard/page/settings/SettingsPanel.tsx`
+- `src/components/dashboard/page/transaction/TransactionDetails.tsx`
+- `src/components/dashboard/page/transaction/TransactionHistory.tsx`
+- `src/components/dashboard/page/wallet/ConnectWallet.tsx`
+- `src/components/dashboard/page/wallet/WalletOverview.tsx`
+- `src/components/forms/AuthForm.tsx`
+- `src/components/guards/AuthGuard.tsx`
+- `src/components/homepage/Banner.tsx`
+- `src/components/homepage/ContactPage.tsx`
+- `src/components/homepage/HowItWorks.tsx`
+- `src/components/homepage/Process.tsx`
+- `src/components/homepage/TravelPay.tsx`
+- `src/components/share/Navbar.tsx`
+- `src/components/share/QueryState.tsx`
+- `src/components/share/ThemeToggle.tsx`
+- `src/components/ui/not-found.tsx`
+

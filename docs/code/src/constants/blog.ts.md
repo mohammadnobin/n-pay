@@ -14,3 +14,8 @@ Source: `src/constants/blog.ts` (11 lines)
 - `BLOG_BODY_PARAGRAPHS` (const) - line 6
 - `isBlogPost` (function) - line 8
 
+## Imported by
+
+- `src/components/homepage/Blog.tsx`
+- `src/components/homepage/BlogPost.tsx`
+

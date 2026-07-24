@@ -33,3 +33,11 @@ Source: `src/components/homepage/TravelPay.tsx` (103 lines)
 - `<Store>`
 - `<CheckCircle2>`
 
+## Outline
+
+- `TravelPay` (function) - line 13
+
+## Imported by
+
+- `src/app/(template)/page.tsx`
+

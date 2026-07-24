@@ -36,3 +36,15 @@ Source: `src/constants/routes.ts` (43 lines)
 - `src/components/dashboard/page/transaction/TransactionDetails.tsx`
 - `src/components/dashboard/page/wallet/ConnectWallet.tsx`
 - `src/components/dashboard/page/wallet/WalletOverview.tsx`
+- `src/components/homepage/Banner.tsx`
+- `src/components/homepage/Blog.tsx`
+- `src/components/homepage/BlogPost.tsx`
+- `src/components/homepage/ContactPage.tsx`
+- `src/components/homepage/Faq.tsx`
+- `src/components/homepage/Features.tsx`
+- `src/components/homepage/HowItWorks.tsx`
+- `src/components/homepage/Process.tsx`
+- `src/components/homepage/TravelPay.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/Navbar.tsx`
+
