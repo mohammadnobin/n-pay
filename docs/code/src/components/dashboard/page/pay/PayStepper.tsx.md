@@ -23,3 +23,8 @@ Source: `src/components/dashboard/page/pay/PayStepper.tsx` (52 lines)
 
 - `<Check>`
 
+## Outline
+
+- `PAY_STEPS` (const) - line 6
+- `PayStepper` (function) - line 14
+
