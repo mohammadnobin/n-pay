@@ -20,3 +20,11 @@ Source: `src/providers/QueryProvider.tsx` (16 lines)
 - `<QueryClientProvider>`
 - `<Toaster>`
 
+## Outline
+
+- `QueryProvider` (function) - line 8
+
+## Imported by
+
+- `src/app/layout.tsx`
+
