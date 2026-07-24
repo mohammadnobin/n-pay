@@ -22,3 +22,7 @@ Source: `src/app/(template)/layout.tsx` (22 lines)
 - `<Navbar>`
 - `<Footer>`
 
+## Outline
+
+- `TemplateLayout` (function) - line 6
+

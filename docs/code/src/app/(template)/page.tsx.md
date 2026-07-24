@@ -28,3 +28,12 @@ Source: `src/app/(template)/page.tsx` (25 lines)
 - `<Blog>`
 - `<Faq>`
 
+## Outline
+
+- `metadata` (const) - line 10
+- `HomePage` (function) - line 12
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
