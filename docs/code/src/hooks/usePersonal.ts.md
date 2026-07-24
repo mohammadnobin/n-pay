@@ -48,3 +48,12 @@ Source: `src/hooks/usePersonal.ts` (72 lines)
 - `useQuote` (const) - line 28
 - `useWalletLink` (const) - line 30
 - `useVerification` (const) - line 32
+- `useApproval` (const) - line 34
+- `useAddPhone` (const) - line 36
+- `useVerifyPhone` (const) - line 39
+- `useDisconnectWallet` (function) - line 42
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

@@ -39,3 +39,9 @@ Source: `src/components/ui/dialog.tsx` (37 lines)
 - `DialogDescription` (const) - line 9
 - `DialogContent` (function) - line 10
 
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/dashboard/page/profile/UserProfile.tsx`
+- `src/components/dashboard/page/transaction/TransactionTable.tsx`
+

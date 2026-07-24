@@ -12,3 +12,12 @@ Source: `src/app/sitemap.ts` (9 lines)
 - `dynamic`
 - `sitemap`
 
+## Outline
+
+- `dynamic` (const) - line 1
+- `sitemap` (function) - line 4
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

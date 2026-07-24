@@ -30,3 +30,11 @@ Source: `src/components/guards/AuthGuard.tsx` (33 lines)
 - `<Button>`
 - `<Link>`
 
+## Outline
+
+- `AuthGuard` (function) - line 13
+
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+
