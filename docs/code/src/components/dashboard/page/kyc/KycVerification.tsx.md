@@ -41,3 +41,7 @@ Source: `src/components/dashboard/page/kyc/KycVerification.tsx` (70 lines)
 - `STEPS` (const) - line 18
 - `KycVerification` (function) - line 24
 
+## Imported by
+
+- `src/app/(dashboard)/kyc/page.tsx`
+
