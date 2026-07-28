@@ -26,3 +26,7 @@ Source: `src/hooks/useTransactionTools.ts` (88 lines)
 - `ModelContext` (interface) - line 12
 - `useTransactionTools` (function) - line 24
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
