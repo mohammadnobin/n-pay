@@ -6,3 +6,7 @@ Source: `src/components/homepage/BlogMark.tsx` (26 lines)
 
 - `BlogMark`
 
+## Outline
+
+- `BlogMark` (function) - line 3
+

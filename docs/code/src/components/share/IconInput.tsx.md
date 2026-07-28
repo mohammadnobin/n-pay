@@ -17,3 +17,13 @@ Source: `src/components/share/IconInput.tsx` (21 lines)
 - `<Icon>`
 - `<Input>`
 
+## Outline
+
+- `IconInput` (function) - line 6
+
+## Imported by
+
+- `src/components/dashboard/page/kyc/KycDetails.tsx`
+- `src/components/dashboard/page/security/DeleteAccount.tsx`
+- `src/components/dashboard/page/security/TwoFactorAuth.tsx`
+

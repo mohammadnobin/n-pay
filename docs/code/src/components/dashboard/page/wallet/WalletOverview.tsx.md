@@ -48,3 +48,7 @@ Source: `src/components/dashboard/page/wallet/WalletOverview.tsx` (138 lines)
 
 - `WalletOverview` (function) - line 18
 
+## Imported by
+
+- `src/app/(dashboard)/wallet/page.tsx`
+

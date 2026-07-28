@@ -22,3 +22,12 @@ Source: `src/components/dashboard/home/RateTicker.tsx` (56 lines)
 
 - `<CoinIcon>`
 
+## Outline
+
+- `quote` (function) - line 8
+- `RateTicker` (function) - line 21
+
+## Imported by
+
+- `src/components/dashboard/DashboardHome.tsx`
+
