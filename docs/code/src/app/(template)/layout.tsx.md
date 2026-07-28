@@ -26,3 +26,7 @@ Source: `src/app/(template)/layout.tsx` (22 lines)
 
 - `TemplateLayout` (function) - line 6
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

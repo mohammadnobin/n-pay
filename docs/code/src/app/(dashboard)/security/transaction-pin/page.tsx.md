@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/security/transaction-pin/page.tsx` (9 lines)
 
 - `<TransactionPin>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+

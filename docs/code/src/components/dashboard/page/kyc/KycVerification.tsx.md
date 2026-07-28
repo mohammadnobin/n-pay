@@ -36,3 +36,8 @@ Source: `src/components/dashboard/page/kyc/KycVerification.tsx` (70 lines)
 - `<Link>`
 - `<ArrowUpRight>`
 
+## Outline
+
+- `STEPS` (const) - line 18
+- `KycVerification` (function) - line 24
+

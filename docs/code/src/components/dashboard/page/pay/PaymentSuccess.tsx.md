@@ -35,3 +35,7 @@ Source: `src/components/dashboard/page/pay/PaymentSuccess.tsx` (66 lines)
 
 - `PaymentSuccess` (function) - line 15
 
+## Imported by
+
+- `src/app/(dashboard)/pay/success/page.tsx`
+

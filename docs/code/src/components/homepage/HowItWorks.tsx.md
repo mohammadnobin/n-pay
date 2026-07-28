@@ -31,3 +31,11 @@ Source: `src/components/homepage/HowItWorks.tsx` (39 lines)
 - `<ArrowUpRight>`
 - `<HowSteps>`
 
+## Outline
+
+- `HowItWorks` (function) - line 11
+
+## Imported by
+
+- `src/app/(template)/how-it-works/page.tsx`
+

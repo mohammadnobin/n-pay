@@ -20,3 +20,9 @@ Source: `src/hooks/useTransactionTools.ts` (88 lines)
 - `useTransactionTools`
 - `useEffect`
 
+## Outline
+
+- `schema` (const) - line 6
+- `ModelContext` (interface) - line 12
+- `useTransactionTools` (function) - line 24
+
