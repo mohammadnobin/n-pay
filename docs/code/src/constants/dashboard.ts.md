@@ -44,3 +44,12 @@ Source: `src/constants/dashboard.ts` (277 lines)
 - `src/components/dashboard/page/pay/PaymentQuote.tsx`
 - `src/components/dashboard/page/pay/PaymentSuccess.tsx`
 - `src/components/dashboard/page/pay/ScanQr.tsx`
+- `src/components/dashboard/page/security/ActiveSessions.tsx`
+- `src/components/dashboard/page/transaction/TransactionDetails.tsx`
+- `src/components/dashboard/page/transaction/TransactionHistory.tsx`
+- `src/components/dashboard/page/wallet/ConnectWallet.tsx`
+- `src/components/dashboard/page/wallet/WalletOverview.tsx`
+- `src/hooks/useEditableProfile.ts`
+- `src/hooks/useNotifications.ts`
+- `src/hooks/useWallet.ts`
+

@@ -44,3 +44,7 @@ Source: `src/components/dashboard/page/wallet/WalletOverview.tsx` (138 lines)
 - `<Unplug>`
 - `<CoinIcon>`
 
+## Outline
+
+- `WalletOverview` (function) - line 18
+
