@@ -44,3 +44,12 @@ Source: `src/components/dashboard/page/profile/PhoneNumbers.tsx` (167 lines)
 - `<Link>`
 - `<ArrowLeft>`
 
+## Outline
+
+- `AddPhoneValues` (type) - line 17
+- `PhoneNumbers` (function) - line 19
+
+## Imported by
+
+- `src/app/(dashboard)/profile/phone-numbers/page.tsx`
+

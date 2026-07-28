@@ -31,3 +31,7 @@ Source: `src/components/dashboard/page/pay/PaymentSuccess.tsx` (66 lines)
 - `<Link>`
 - `<Receipt>`
 
+## Outline
+
+- `PaymentSuccess` (function) - line 15
+

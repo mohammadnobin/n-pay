@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/security/delete-account/page.tsx` (9 lines)
 
 - `<DeleteAccount>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+
