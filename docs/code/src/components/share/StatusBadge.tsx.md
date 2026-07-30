@@ -33,3 +33,20 @@ Source: `src/components/share/StatusBadge.tsx` (21 lines)
 - `src/components/dashboard/page/transaction/TransactionDetails.tsx`
 - `src/components/dashboard/page/transaction/TransactionTable.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 21 | 1 | 0 | 20 |
+
+## Related files
+
+- `src/components/share/ActivityFilterTabs.tsx`
+- `src/components/share/Brand.tsx`
+- `src/components/share/CoinIcon.tsx`
+- `src/components/share/EmptyState.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/IconInput.tsx`
+- `src/components/share/LanguageSwitcher.tsx`
+- `src/components/share/Navbar.tsx`
+
