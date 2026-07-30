@@ -27,3 +27,13 @@ Source: `src/app/(template)/how-it-works/page.tsx` (15 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 15 | 3 | 0 | 12 |
+
+## Related files
+
+No other source files in this folder.
+
