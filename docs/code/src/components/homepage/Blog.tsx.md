@@ -37,3 +37,20 @@ Source: `src/components/homepage/Blog.tsx` (62 lines)
 
 - `src/app/(template)/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 62 | 3 | 3 | 56 |
+
+## Related files
+
+- `src/components/homepage/Banner.tsx`
+- `src/components/homepage/BlogMark.tsx`
+- `src/components/homepage/BlogPost.tsx`
+- `src/components/homepage/ContactPage.tsx`
+- `src/components/homepage/DownloadApp.tsx`
+- `src/components/homepage/Faq.tsx`
+- `src/components/homepage/Features.tsx`
+- `src/components/homepage/HowItWorks.tsx`
+
