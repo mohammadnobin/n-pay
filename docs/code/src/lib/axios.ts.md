@@ -38,3 +38,17 @@ Source: `src/lib/axios.ts` (43 lines)
 - `src/services/contact.service.ts`
 - `src/services/personal.service.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 43 | 1 | 2 | 40 |
+
+## Related files
+
+- `src/lib/metadata.ts`
+- `src/lib/provider-redirect.ts`
+- `src/lib/query-client.ts`
+- `src/lib/query-keys.ts`
+- `src/lib/utils.ts`
+
