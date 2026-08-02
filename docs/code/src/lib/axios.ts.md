@@ -34,3 +34,7 @@ Source: `src/lib/axios.ts` (43 lines)
 - `src/components/homepage/HowItWorks.tsx`
 - `src/components/homepage/TravelPay.tsx`
 - `src/components/share/QueryState.tsx`
+- `src/services/auth.service.ts`
+- `src/services/contact.service.ts`
+- `src/services/personal.service.ts`
+
