@@ -23,3 +23,13 @@ Source: `src/components/share/LanguageSwitcher.tsx` (28 lines)
 - `<Select>`
 - `<Globe2>`
 
+## Outline
+
+- `LanguageSwitcher` (function) - line 5
+
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/share/Navbar.tsx`
+- `src/components/share/Preferences.tsx`
+

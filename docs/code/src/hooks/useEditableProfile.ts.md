@@ -21,3 +21,7 @@ Source: `src/hooks/useEditableProfile.ts` (24 lines)
 - `useProfileStore`
 - `useEffect`
 
+## Outline
+
+- `useEditableProfile` (function) - line 11
+
