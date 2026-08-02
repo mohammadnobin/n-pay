@@ -10,3 +10,7 @@ Source: `src/components/ui/badge.tsx` (13 lines)
 
 - `Badge`
 
+## Outline
+
+- `Badge` (function) - line 2
+

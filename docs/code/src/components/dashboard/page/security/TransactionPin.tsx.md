@@ -35,3 +35,11 @@ Source: `src/components/dashboard/page/security/TransactionPin.tsx` (107 lines)
 - `<SecureInput>`
 - `<Button>`
 
+## Outline
+
+- `TransactionPin` (function) - line 17
+
+## Imported by
+
+- `src/app/(dashboard)/security/transaction-pin/page.tsx`
+

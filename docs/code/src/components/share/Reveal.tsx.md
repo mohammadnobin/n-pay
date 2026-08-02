@@ -32,3 +32,19 @@ Source: `src/components/share/Reveal.tsx` (85 lines)
 - `RevealProps` (type) - line 18
 - `Reveal` (function) - line 34
 
+## Imported by
+
+- `src/components/homepage/Banner.tsx`
+- `src/components/homepage/Blog.tsx`
+- `src/components/homepage/BlogPost.tsx`
+- `src/components/homepage/ContactPage.tsx`
+- `src/components/homepage/DownloadApp.tsx`
+- `src/components/homepage/Faq.tsx`
+- `src/components/homepage/Features.tsx`
+- `src/components/homepage/HowItWorks.tsx`
+- `src/components/homepage/HowSteps.tsx`
+- `src/components/homepage/Process.tsx`
+- `src/components/homepage/SecurityOverview.tsx`
+- `src/components/homepage/SupportCenter.tsx`
+- `src/components/homepage/TravelPay.tsx`
+

@@ -29,3 +29,12 @@ Source: `src/components/homepage/Process.tsx` (82 lines)
 - `<ArrowRight>`
 - `<Icon>`
 
+## Outline
+
+- `STEPS` (const) - line 10
+- `Process` (function) - line 19
+
+## Imported by
+
+- `src/app/(template)/page.tsx`
+
