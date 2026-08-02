@@ -18,3 +18,12 @@ Source: `src/app/(template)/support/page.tsx` (15 lines)
 - `<SupportCenter>`
 - `<Faq>`
 
+## Outline
+
+- `metadata` (const) - line 5
+- `SupportPage` (function) - line 7
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

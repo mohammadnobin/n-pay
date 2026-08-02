@@ -25,3 +25,11 @@ Source: `src/components/share/QueryState.tsx` (41 lines)
 - `<Loader2>`
 - `<Button>`
 
+## Outline
+
+- `QueryState` (function) - line 6
+
+## Imported by
+
+- `src/components/guards/AuthGuard.tsx`
+
