@@ -40,3 +40,7 @@ Source: `src/components/dashboard/page/pay/ScanQr.tsx` (69 lines)
 - `<Button>`
 - `<ArrowRight>`
 
+## Outline
+
+- `ScanQr` (function) - line 15
+

@@ -10,3 +10,7 @@ Source: `src/components/ui/textarea.tsx` (16 lines)
 
 - `Textarea`
 
+## Outline
+
+- `Textarea` (function) - line 2
+

@@ -28,3 +28,7 @@ Source: `src/components/share/ScrollAura.tsx` (142 lines)
 - `FALLBACK` (const) - line 68
 - `ScrollAura` (function) - line 77
 
+## Imported by
+
+- `src/app/(template)/layout.tsx`
+
