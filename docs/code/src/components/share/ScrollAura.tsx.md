@@ -21,3 +21,10 @@ Source: `src/components/share/ScrollAura.tsx` (142 lines)
 - `<Stop>`
 - `<HTMLElement>`
 
+## Outline
+
+- `Stop` (type) - line 4
+- `STOPS` (const) - line 17
+- `FALLBACK` (const) - line 68
+- `ScrollAura` (function) - line 77
+
