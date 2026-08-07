@@ -17,3 +17,7 @@ Source: `src/services/auth.service.ts` (43 lines)
 
 - `<Session>`
 
+## Outline
+
+- `authService` (const) - line 5
+
