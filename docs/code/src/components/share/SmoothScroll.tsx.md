@@ -17,3 +17,9 @@ Source: `src/components/share/SmoothScroll.tsx` (39 lines)
 
 - `useEffect`
 
+## Outline
+
+- `WHEEL_MULTIPLIER` (const) - line 8
+- `LERP` (const) - line 12
+- `SmoothScroll` (function) - line 22
+

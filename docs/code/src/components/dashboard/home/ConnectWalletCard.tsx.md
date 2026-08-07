@@ -25,3 +25,11 @@ Source: `src/components/dashboard/home/ConnectWalletCard.tsx` (29 lines)
 - `<Link>`
 - `<Link2>`
 
+## Outline
+
+- `ConnectWalletCard` (function) - line 10
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

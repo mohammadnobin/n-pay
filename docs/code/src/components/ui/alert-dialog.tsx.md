@@ -24,3 +24,16 @@ Source: `src/components/ui/alert-dialog.tsx` (26 lines)
 - `<AlertDialogPrimitive.Overlay>`
 - `<AlertDialogPrimitive.Content>`
 
+## Outline
+
+- `AlertDialog` (const) - line 4
+- `AlertDialogTrigger` (const) - line 5
+- `AlertDialogCancel` (const) - line 6
+- `AlertDialogTitle` (const) - line 7
+- `AlertDialogDescription` (const) - line 8
+- `AlertDialogContent` (function) - line 9
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

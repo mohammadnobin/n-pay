@@ -10,3 +10,7 @@ Source: `src/lib/provider-redirect.ts` (7 lines)
 
 - `openProvider` (function) - line 1
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
