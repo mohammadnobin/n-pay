@@ -27,3 +27,7 @@ Source: `src/app/not-found.tsx` (28 lines)
 
 - `NotFound` (function) - line 6
 
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

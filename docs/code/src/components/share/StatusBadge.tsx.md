@@ -22,3 +22,14 @@ Source: `src/components/share/StatusBadge.tsx` (21 lines)
 
 - `<Badge>`
 
+## Outline
+
+- `StatusBadge` (function) - line 5
+
+## Imported by
+
+- `src/components/dashboard/home/KycStatus.tsx`
+- `src/components/dashboard/page/kyc/KycVerification.tsx`
+- `src/components/dashboard/page/transaction/TransactionDetails.tsx`
+- `src/components/dashboard/page/transaction/TransactionTable.tsx`
+

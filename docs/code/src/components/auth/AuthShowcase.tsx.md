@@ -21,3 +21,11 @@ Source: `src/components/auth/AuthShowcase.tsx` (53 lines)
 
 - `<Image>`
 
+## Outline
+
+- `AuthShowcase` (function) - line 10
+
+## Imported by
+
+- `src/components/auth/AuthShell.tsx`
+

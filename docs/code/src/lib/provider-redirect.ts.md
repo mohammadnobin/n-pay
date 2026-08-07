@@ -6,3 +6,7 @@ Source: `src/lib/provider-redirect.ts` (7 lines)
 
 - `openProvider`
 
+## Outline
+
+- `openProvider` (function) - line 1
+
