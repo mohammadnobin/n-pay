@@ -48,3 +48,8 @@ Source: `src/components/homepage/ContactPage.tsx` (258 lines)
 - `<Button>`
 - `<Send>`
 
+## Outline
+
+- `PROMISES` (const) - line 32
+- `ContactPage` (function) - line 37
+
