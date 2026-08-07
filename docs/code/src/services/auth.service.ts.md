@@ -21,3 +21,9 @@ Source: `src/services/auth.service.ts` (43 lines)
 
 - `authService` (const) - line 5
 
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/guards/AuthGuard.tsx`
+- `src/hooks/useAuth.ts`
+
