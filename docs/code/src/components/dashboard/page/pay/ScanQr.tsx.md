@@ -44,3 +44,7 @@ Source: `src/components/dashboard/page/pay/ScanQr.tsx` (69 lines)
 
 - `ScanQr` (function) - line 15
 
+## Imported by
+
+- `src/app/(dashboard)/pay/scan/page.tsx`
+

@@ -23,3 +23,7 @@ Source: `src/app/not-found.tsx` (28 lines)
 - `<Illustration>`
 - `<NotFoundContent>`
 
+## Outline
+
+- `NotFound` (function) - line 6
+
