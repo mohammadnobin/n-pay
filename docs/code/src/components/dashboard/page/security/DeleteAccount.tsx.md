@@ -41,3 +41,7 @@ Source: `src/components/dashboard/page/security/DeleteAccount.tsx` (115 lines)
 
 - `DeleteAccount` (function) - line 17
 
+## Imported by
+
+- `src/app/(dashboard)/security/delete-account/page.tsx`
+
