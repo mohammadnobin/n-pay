@@ -22,3 +22,13 @@ Source: `src/components/ui/not-found.tsx` (76 lines)
 - `<Link>`
 - `<ArrowLeft>`
 
+## Outline
+
+- `NotFoundProps` (interface) - line 6
+- `Illustration` (function) - line 18
+- `NotFound` (function) - line 29
+
+## Imported by
+
+- `src/app/not-found.tsx`
+

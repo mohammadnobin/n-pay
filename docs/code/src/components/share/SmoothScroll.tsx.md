@@ -23,3 +23,7 @@ Source: `src/components/share/SmoothScroll.tsx` (39 lines)
 - `LERP` (const) - line 12
 - `SmoothScroll` (function) - line 22
 
+## Imported by
+
+- `src/app/(template)/layout.tsx`
+

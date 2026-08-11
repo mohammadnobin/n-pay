@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/kyc/page.tsx` (9 lines)
 
 - `<KycVerification>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+

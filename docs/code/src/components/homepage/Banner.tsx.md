@@ -33,3 +33,7 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 - `<Image>`
 - `<MapPin>`
 
+## Outline
+
+- `Banner` (function) - line 10
+

@@ -16,3 +16,12 @@ Source: `src/app/(dashboard)/kyc/details/page.tsx` (9 lines)
 
 - `<KycDetails>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+
