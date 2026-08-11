@@ -36,3 +36,7 @@ Source: `src/components/dashboard/page/transaction/TransactionDetails.tsx` (90 l
 - `<Card>`
 - `<StatusBadge>`
 
+## Outline
+
+- `TransactionDetails` (function) - line 14
+
