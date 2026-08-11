@@ -20,3 +20,11 @@ Source: `src/hooks/useNotifications.ts` (33 lines)
 - `useNotificationsStore`
 - `useEffect`
 
+## Outline
+
+- `useNotifications` (function) - line 9
+
+## Imported by
+
+- `src/components/dashboard/NotificationsMenu.tsx`
+

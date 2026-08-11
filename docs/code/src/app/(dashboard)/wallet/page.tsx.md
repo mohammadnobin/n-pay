@@ -16,3 +16,8 @@ Source: `src/app/(dashboard)/wallet/page.tsx` (9 lines)
 
 - `<WalletOverview>`
 
+## Outline
+
+- `metadata` (const) - line 4
+- `Page` (function) - line 6
+
