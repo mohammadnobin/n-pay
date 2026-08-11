@@ -19,3 +19,13 @@ Source: `src/components/share/ActivityFilterTabs.tsx` (53 lines)
 
 - `useLang`
 
+## Outline
+
+- `ActivityFilter` (type) - line 6
+- `FILTERS` (const) - line 8
+- `ActivityFilterTabs` (function) - line 18
+
+## Imported by
+
+- `src/components/dashboard/page/transaction/TransactionHistory.tsx`
+

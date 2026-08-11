@@ -91,3 +91,47 @@ Source: `src/style/globals.css` (390 lines)
 - `[dir="rtl"] .ticker-track`
 - `.ticker:hover .ticker-track, .ticker:focus-within .ticker-track`
 
+## Outline
+
+- `:root` - line 3
+- `.dark` - line 26
+- `*` - line 66
+- `body` - line 69
+- `select` - line 79
+- `summary` - line 86
+- `summary` - line 92
+- `::selection` - line 95
+- `.dark ::selection` - line 99
+- `h3` - line 105
+- `a` - line 109
+- `summary` - line 113
+- `select` - line 116
+- `table` - line 119
+- `th` - line 123
+- `tbody tr` - line 131
+- `td` - line 135
+- `tbody tr:last-child td` - line 140
+- `td` - line 143
+- `details > summary` - line 197
+- `details > summary::-webkit-details-marker` - line 200
+- `[dir="rtl"] h3` - line 205
+- `.anim-drift` - line 283
+- `.anim-bob` - line 286
+- `.anim-halo` - line 289
+- `.anim-orbit` - line 292
+- `.anim-pulse-ring` - line 295
+- `.anim-zoom` - line 298
+- `.anim-dash` - line 303
+- `[dir="rtl"] .anim-dash` - line 313
+- `.anim-sheen` - line 316
+- `@media (scripting: none)` - line 330
+- `@media (prefers-reduced-motion: reduce)` - line 336
+- `.ticker` - line 345
+- `.ticker-track` - line 362
+- `[dir="rtl"] .ticker-track` - line 367
+- `.ticker:focus-within .ticker-track` - line 371
+
+## Imported by
+
+- `src/app/layout.tsx`
+

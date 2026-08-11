@@ -36,3 +36,11 @@ Source: `src/components/dashboard/page/security/ActiveSessions.tsx` (102 lines)
 - `<Clock>`
 - `<Trash2>`
 
+## Outline
+
+- `ActiveSessions` (function) - line 12
+
+## Imported by
+
+- `src/app/(dashboard)/security/active-sessions/page.tsx`
+

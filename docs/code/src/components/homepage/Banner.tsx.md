@@ -37,3 +37,7 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 
 - `Banner` (function) - line 10
 
+## Imported by
+
+- `src/app/(template)/page.tsx`
+
