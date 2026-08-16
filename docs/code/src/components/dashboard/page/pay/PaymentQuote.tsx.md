@@ -42,3 +42,8 @@ Source: `src/components/dashboard/page/pay/PaymentQuote.tsx` (111 lines)
 - `<Link>`
 - `<ArrowRight>`
 
+## Outline
+
+- `QUOTE_TTL_SECONDS` (const) - line 21
+- `PaymentQuote` (function) - line 23
+

@@ -28,3 +28,12 @@ Source: `src/components/share/SecureInput.tsx` (38 lines)
 - `<EyeOff>`
 - `<Eye>`
 
+## Outline
+
+- `SecureInput` (function) - line 9
+
+## Imported by
+
+- `src/components/dashboard/page/security/ChangePassword.tsx`
+- `src/components/dashboard/page/security/TransactionPin.tsx`
+

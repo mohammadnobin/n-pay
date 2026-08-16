@@ -43,3 +43,7 @@ Source: `src/components/dashboard/DashboardHome.tsx` (80 lines)
 - `RECENT_TRANSACTIONS` (const) - line 29
 - `DashboardHome` (function) - line 37
 
+## Imported by
+
+- `src/app/(dashboard)/dashboard/page.tsx`
+
