@@ -53,3 +53,8 @@ Source: `src/lib/utils.ts` (17 lines)
 - `src/components/ui/button.tsx`
 - `src/components/ui/card.tsx`
 - `src/components/ui/dialog.tsx`
+- `src/components/ui/input.tsx`
+- `src/components/ui/select.tsx`
+- `src/components/ui/switch.tsx`
+- `src/components/ui/textarea.tsx`
+

@@ -34,3 +34,13 @@ Source: `src/components/dashboard/NotificationsMenu.tsx` (129 lines)
 - `<PopoverPrimitive.Content>`
 - `<Icon>`
 
+## Outline
+
+- `ICONS` (const) - line 17
+- `TONES` (const) - line 24
+- `NotificationsMenu` (function) - line 31
+
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+
