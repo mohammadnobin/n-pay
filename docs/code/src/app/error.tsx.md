@@ -21,3 +21,11 @@ Source: `src/app/error.tsx` (18 lines)
 
 - `<Button>`
 
+## Outline
+
+- `ErrorPage` (function) - line 4
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

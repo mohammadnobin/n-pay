@@ -47,3 +47,7 @@ Source: `src/components/dashboard/page/pay/PaymentQuote.tsx` (111 lines)
 - `QUOTE_TTL_SECONDS` (const) - line 21
 - `PaymentQuote` (function) - line 23
 
+## Imported by
+
+- `src/app/(dashboard)/pay/quote/page.tsx`
+

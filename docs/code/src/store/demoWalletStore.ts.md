@@ -10,3 +10,11 @@ Source: `src/store/demoWalletStore.ts` (14 lines)
 
 - `useDemoWalletStore`
 
+## Outline
+
+- `useDemoWalletStore` (const) - line 4
+
+## Imported by
+
+- `src/services/personal.service.ts`
+

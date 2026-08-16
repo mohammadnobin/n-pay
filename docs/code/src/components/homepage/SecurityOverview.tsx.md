@@ -24,3 +24,12 @@ Source: `src/components/homepage/SecurityOverview.tsx` (53 lines)
 - `<ShieldCheck>`
 - `<Icon>`
 
+## Outline
+
+- `POINTS` (const) - line 6
+- `SecurityOverview` (function) - line 13
+
+## Imported by
+
+- `src/app/(template)/safety/page.tsx`
+

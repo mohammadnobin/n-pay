@@ -21,3 +21,11 @@ Source: `src/components/homepage/Services.tsx` (20 lines)
 
 - `<HowSteps>`
 
+## Outline
+
+- `Services` (function) - line 4
+
+## Imported by
+
+Not imported by any other source file (entry point or standalone).
+

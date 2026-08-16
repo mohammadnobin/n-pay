@@ -45,3 +45,16 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 - `<X>`
 - `<Menu>`
 
+## Outline
+
+- `links` (const) - line 14
+- `useHeaderState` (function) - line 24
+- `useMobileMenu` (function) - line 51
+- `PREVIEW_AUTH_KEY` (const) - line 89
+- `usePreviewSignedIn` (function) - line 91
+- `Navbar` (function) - line 121
+
+## Imported by
+
+- `src/app/(template)/layout.tsx`
+
