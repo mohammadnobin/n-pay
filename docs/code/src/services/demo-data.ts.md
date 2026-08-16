@@ -16,3 +16,8 @@ Source: `src/services/demo-data.ts` (129 lines)
 - `demoRates` (const) - line 2
 - `demoOverview` (const) - line 46
 
+## Imported by
+
+- `src/services/auth.service.ts`
+- `src/services/personal.service.ts`
+

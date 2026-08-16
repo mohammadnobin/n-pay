@@ -60,3 +60,17 @@ Source: `src/components/dashboard/page/profile/UserProfile.tsx` (435 lines)
 - `<Bookmark>`
 - `<UserX>`
 
+## Outline
+
+- `KYC_LABELS` (const) - line 45
+- `personalRows` (function) - line 52
+- `truncateId` (function) - line 86
+- `InfoRowData` (type) - line 90
+- `InfoRows` (function) - line 101
+- `MAX_PHOTO_BYTES` (const) - line 148
+- `UserProfile` (function) - line 150
+
+## Imported by
+
+- `src/app/(dashboard)/profile/page.tsx`
+

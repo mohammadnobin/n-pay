@@ -40,3 +40,11 @@ Source: `src/components/auth/OtpForm.tsx` (103 lines)
 - `<Link>`
 - `<Input>`
 
+## Outline
+
+- `OtpForm` (function) - line 17
+
+## Imported by
+
+- `src/app/(auth)/otp/page.tsx`
+

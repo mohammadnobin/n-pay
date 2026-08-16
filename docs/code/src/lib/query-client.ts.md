@@ -10,3 +10,11 @@ Source: `src/lib/query-client.ts` (9 lines)
 
 - `queryClient`
 
+## Outline
+
+- `queryClient` (const) - line 3
+
+## Imported by
+
+- `src/providers/QueryProvider.tsx`
+

@@ -36,3 +36,10 @@ Source: `src/components/dashboard/DashboardHome.tsx` (80 lines)
 - `<Card>`
 - `<TransactionTable>`
 
+## Outline
+
+- `RECENT_LIMIT` (const) - line 19
+- `TOTAL_BALANCE` (const) - line 22
+- `RECENT_TRANSACTIONS` (const) - line 29
+- `DashboardHome` (function) - line 37
+
