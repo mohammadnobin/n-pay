@@ -22,3 +22,11 @@ Source: `src/components/dashboard/SidebarTooltip.tsx` (65 lines)
 
 - `<HTMLDivElement>`
 
+## Outline
+
+- `SidebarTooltip` (function) - line 9
+
+## Imported by
+
+- `src/components/dashboard/DashboardShell.tsx`
+

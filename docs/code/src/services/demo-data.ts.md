@@ -11,3 +11,8 @@ Source: `src/services/demo-data.ts` (129 lines)
 - `demoRates`
 - `demoOverview`
 
+## Outline
+
+- `demoRates` (const) - line 2
+- `demoOverview` (const) - line 46
+

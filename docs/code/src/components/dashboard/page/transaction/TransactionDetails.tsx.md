@@ -40,3 +40,7 @@ Source: `src/components/dashboard/page/transaction/TransactionDetails.tsx` (90 l
 
 - `TransactionDetails` (function) - line 14
 
+## Imported by
+
+- `src/components/dashboard/page/transaction/TransactionDetailsRoute.tsx`
+
