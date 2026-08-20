@@ -42,3 +42,9 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 
 - `src/app/(dashboard)/security/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 169 | 6 | 0 | 163 |
+
