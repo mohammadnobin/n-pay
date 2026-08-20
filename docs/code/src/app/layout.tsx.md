@@ -33,3 +33,9 @@ Source: `src/app/layout.tsx` (59 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 59 | 4 | 2 | 53 |
+
