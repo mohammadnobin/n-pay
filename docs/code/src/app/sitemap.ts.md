@@ -27,3 +27,10 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 9 | 1 | 0 | 8 |
 
+## Related files
+
+- `src/app/error.tsx`
+- `src/app/layout.tsx`
+- `src/app/not-found.tsx`
+- `src/app/robots.ts`
+
