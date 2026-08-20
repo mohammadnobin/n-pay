@@ -39,3 +39,10 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 59 | 4 | 2 | 53 |
 
+## Related files
+
+- `src/app/error.tsx`
+- `src/app/not-found.tsx`
+- `src/app/robots.ts`
+- `src/app/sitemap.ts`
+
