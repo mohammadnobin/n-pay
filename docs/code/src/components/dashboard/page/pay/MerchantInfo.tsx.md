@@ -50,3 +50,13 @@ Source: `src/components/dashboard/page/pay/MerchantInfo.tsx` (74 lines)
 | --- | --- | --- | --- |
 | 74 | 2 | 0 | 72 |
 
+## Related files
+
+- `src/components/dashboard/page/pay/ConfirmPayment.tsx`
+- `src/components/dashboard/page/pay/PayStepper.tsx`
+- `src/components/dashboard/page/pay/PaymentProcessing.tsx`
+- `src/components/dashboard/page/pay/PaymentQuote.tsx`
+- `src/components/dashboard/page/pay/PaymentSuccess.tsx`
+- `src/components/dashboard/page/pay/QRScanner.tsx`
+- `src/components/dashboard/page/pay/ScanQr.tsx`
+
