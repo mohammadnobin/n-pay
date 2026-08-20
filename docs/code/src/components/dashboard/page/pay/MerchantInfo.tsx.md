@@ -44,3 +44,9 @@ Source: `src/components/dashboard/page/pay/MerchantInfo.tsx` (74 lines)
 
 - `src/app/(dashboard)/pay/merchant/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 74 | 2 | 0 | 72 |
+
