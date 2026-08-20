@@ -48,3 +48,11 @@ Source: `src/components/dashboard/page/security/SecurityBiometric.tsx` (169 line
 | --- | --- | --- | --- |
 | 169 | 6 | 0 | 163 |
 
+## Related files
+
+- `src/components/dashboard/page/security/ActiveSessions.tsx`
+- `src/components/dashboard/page/security/ChangePassword.tsx`
+- `src/components/dashboard/page/security/DeleteAccount.tsx`
+- `src/components/dashboard/page/security/TransactionPin.tsx`
+- `src/components/dashboard/page/security/TwoFactorAuth.tsx`
+
