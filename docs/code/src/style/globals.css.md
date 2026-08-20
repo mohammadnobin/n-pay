@@ -135,3 +135,9 @@ Source: `src/style/globals.css` (390 lines)
 
 - `src/app/layout.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 390 | 2 | 10 | 378 |
+
