@@ -141,3 +141,7 @@ Source: `src/style/globals.css` (390 lines)
 | --- | --- | --- | --- |
 | 390 | 2 | 10 | 378 |
 
+## Related files
+
+No other source files in this folder.
+
