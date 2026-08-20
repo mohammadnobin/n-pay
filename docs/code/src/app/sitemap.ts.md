@@ -21,3 +21,9 @@ Source: `src/app/sitemap.ts` (9 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 9 | 1 | 0 | 8 |
+
