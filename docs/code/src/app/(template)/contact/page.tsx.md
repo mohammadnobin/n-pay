@@ -27,3 +27,9 @@ Source: `src/app/(template)/contact/page.tsx` (15 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 15 | 3 | 0 | 12 |
+
