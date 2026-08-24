@@ -58,3 +58,9 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 
 - `src/app/(template)/layout.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 282 | 21 | 28 | 233 |
+
