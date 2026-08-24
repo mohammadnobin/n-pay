@@ -22,3 +22,9 @@ Source: `src/schemas/wallet.schema.ts` (17 lines)
 - `src/schemas/wallet.test.ts`
 - `src/services/personal.service.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 17 | 3 | 1 | 13 |
+
