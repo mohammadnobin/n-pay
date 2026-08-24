@@ -28,3 +28,14 @@ Source: `src/schemas/wallet.schema.ts` (17 lines)
 | --- | --- | --- | --- |
 | 17 | 3 | 1 | 13 |
 
+## Related files
+
+- `src/schemas/auth.schema.ts`
+- `src/schemas/contact.schema.ts`
+- `src/schemas/kyc.schema.ts`
+- `src/schemas/payment.schema.ts`
+- `src/schemas/profile.schema.ts`
+- `src/schemas/security.schema.ts`
+- `src/schemas/validation.test.ts`
+- `src/schemas/wallet.test.ts`
+
