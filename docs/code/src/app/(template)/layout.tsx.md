@@ -36,3 +36,7 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 22 | 1 | 0 | 21 |
 
+## Related files
+
+- `src/app/(template)/page.tsx`
+
