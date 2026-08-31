@@ -30,3 +30,9 @@ Source: `src/app/(template)/layout.tsx` (22 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 22 | 1 | 0 | 21 |
+
