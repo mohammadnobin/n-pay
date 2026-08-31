@@ -64,3 +64,14 @@ Source: `src/components/share/Navbar.tsx` (282 lines)
 | --- | --- | --- | --- |
 | 282 | 21 | 28 | 233 |
 
+## Related files
+
+- `src/components/share/ActivityFilterTabs.tsx`
+- `src/components/share/Brand.tsx`
+- `src/components/share/CoinIcon.tsx`
+- `src/components/share/EmptyState.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/IconInput.tsx`
+- `src/components/share/LanguageSwitcher.tsx`
+- `src/components/share/PageHeading.tsx`
+
