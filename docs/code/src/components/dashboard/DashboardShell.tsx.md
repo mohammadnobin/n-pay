@@ -83,3 +83,9 @@ Source: `src/components/dashboard/DashboardShell.tsx` (404 lines)
 
 - `src/app/(dashboard)/layout.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 404 | 7 | 21 | 376 |
+
