@@ -89,3 +89,9 @@ Source: `src/components/dashboard/DashboardShell.tsx` (404 lines)
 | --- | --- | --- | --- |
 | 404 | 7 | 21 | 376 |
 
+## Related files
+
+- `src/components/dashboard/DashboardHome.tsx`
+- `src/components/dashboard/NotificationsMenu.tsx`
+- `src/components/dashboard/SidebarTooltip.tsx`
+
