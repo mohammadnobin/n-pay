@@ -25,3 +25,9 @@ Source: `src/app/(auth)/otp/page.tsx` (9 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 9 | 3 | 0 | 6 |
+
