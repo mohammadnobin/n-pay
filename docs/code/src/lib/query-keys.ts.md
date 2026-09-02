@@ -18,3 +18,9 @@ Source: `src/lib/query-keys.ts` (14 lines)
 - `src/hooks/useAuth.ts`
 - `src/hooks/usePersonal.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 14 | 1 | 0 | 13 |
+
