@@ -23,3 +23,9 @@ Source: `src/store/securityStore.ts` (78 lines)
 
 - `src/hooks/useSecurity.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 78 | 7 | 4 | 67 |
+
