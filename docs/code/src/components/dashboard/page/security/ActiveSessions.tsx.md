@@ -50,3 +50,11 @@ Source: `src/components/dashboard/page/security/ActiveSessions.tsx` (102 lines)
 | --- | --- | --- | --- |
 | 102 | 9 | 0 | 93 |
 
+## Related files
+
+- `src/components/dashboard/page/security/ChangePassword.tsx`
+- `src/components/dashboard/page/security/DeleteAccount.tsx`
+- `src/components/dashboard/page/security/SecurityBiometric.tsx`
+- `src/components/dashboard/page/security/TransactionPin.tsx`
+- `src/components/dashboard/page/security/TwoFactorAuth.tsx`
+
