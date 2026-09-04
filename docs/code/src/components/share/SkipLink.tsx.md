@@ -24,3 +24,9 @@ Source: `src/components/share/SkipLink.tsx` (11 lines)
 
 - `src/app/(template)/layout.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 11 | 1 | 0 | 10 |
+
