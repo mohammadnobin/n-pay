@@ -29,3 +29,12 @@ Source: `src/store/securityStore.ts` (78 lines)
 | --- | --- | --- | --- |
 | 78 | 7 | 4 | 67 |
 
+## Related files
+
+- `src/store/authStore.ts`
+- `src/store/demoWalletStore.ts`
+- `src/store/notificationsStore.ts`
+- `src/store/profileStore.ts`
+- `src/store/uiStore.ts`
+- `src/store/walletStore.ts`
+
