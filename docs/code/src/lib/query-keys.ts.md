@@ -24,3 +24,11 @@ Source: `src/lib/query-keys.ts` (14 lines)
 | --- | --- | --- | --- |
 | 14 | 1 | 0 | 13 |
 
+## Related files
+
+- `src/lib/axios.ts`
+- `src/lib/metadata.ts`
+- `src/lib/provider-redirect.ts`
+- `src/lib/query-client.ts`
+- `src/lib/utils.ts`
+
