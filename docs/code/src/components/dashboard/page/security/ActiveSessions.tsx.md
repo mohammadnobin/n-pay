@@ -44,3 +44,9 @@ Source: `src/components/dashboard/page/security/ActiveSessions.tsx` (102 lines)
 
 - `src/app/(dashboard)/security/active-sessions/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 102 | 9 | 0 | 93 |
+
