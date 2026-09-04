@@ -30,3 +30,14 @@ Source: `src/components/share/SkipLink.tsx` (11 lines)
 | --- | --- | --- | --- |
 | 11 | 1 | 0 | 10 |
 
+## Related files
+
+- `src/components/share/ActivityFilterTabs.tsx`
+- `src/components/share/Brand.tsx`
+- `src/components/share/CoinIcon.tsx`
+- `src/components/share/EmptyState.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/IconInput.tsx`
+- `src/components/share/LanguageSwitcher.tsx`
+- `src/components/share/Navbar.tsx`
+
