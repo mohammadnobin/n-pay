@@ -50,3 +50,7 @@ Source: `src/components/dashboard/page/settings/SettingsPanel.tsx` (89 lines)
 | --- | --- | --- | --- |
 | 89 | 6 | 0 | 83 |
 
+## Related files
+
+No other source files in this folder.
+
