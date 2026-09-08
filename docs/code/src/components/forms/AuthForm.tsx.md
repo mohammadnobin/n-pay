@@ -59,3 +59,7 @@ Source: `src/components/forms/AuthForm.tsx` (196 lines)
 | --- | --- | --- | --- |
 | 196 | 1 | 0 | 195 |
 
+## Related files
+
+No other source files in this folder.
+
