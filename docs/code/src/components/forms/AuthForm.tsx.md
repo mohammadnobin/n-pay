@@ -53,3 +53,9 @@ Source: `src/components/forms/AuthForm.tsx` (196 lines)
 - `src/app/(auth)/login/page.tsx`
 - `src/app/(auth)/register/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 196 | 1 | 0 | 195 |
+
