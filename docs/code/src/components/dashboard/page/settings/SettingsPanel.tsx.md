@@ -44,3 +44,9 @@ Source: `src/components/dashboard/page/settings/SettingsPanel.tsx` (89 lines)
 
 - `src/app/(dashboard)/settings/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 89 | 6 | 0 | 83 |
+
