@@ -131,3 +131,14 @@ Source: `src/hooks/useLang.tsx` (155 lines)
 | --- | --- | --- | --- |
 | 155 | 25 | 13 | 117 |
 
+## Related files
+
+- `src/hooks/useAuth.ts`
+- `src/hooks/useContact.ts`
+- `src/hooks/useEditableProfile.ts`
+- `src/hooks/useNotifications.ts`
+- `src/hooks/usePersonal.ts`
+- `src/hooks/useSecurity.ts`
+- `src/hooks/useTransactionTools.ts`
+- `src/hooks/useWallet.ts`
+
