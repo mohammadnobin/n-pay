@@ -58,3 +58,9 @@ Source: `src/lib/utils.ts` (17 lines)
 - `src/components/ui/switch.tsx`
 - `src/components/ui/textarea.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 17 | 2 | 0 | 15 |
+
