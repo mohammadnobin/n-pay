@@ -25,3 +25,9 @@ Source: `src/app/(auth)/layout.tsx` (13 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 13 | 3 | 0 | 10 |
+
