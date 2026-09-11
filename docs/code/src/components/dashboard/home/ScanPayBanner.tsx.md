@@ -34,3 +34,9 @@ Source: `src/components/dashboard/home/ScanPayBanner.tsx` (70 lines)
 
 - `src/components/dashboard/DashboardHome.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 70 | 9 | 3 | 58 |
+
