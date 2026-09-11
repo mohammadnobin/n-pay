@@ -125,3 +125,9 @@ Source: `src/hooks/useLang.tsx` (155 lines)
 - `src/components/ui/dialog.tsx`
 - `src/components/ui/select.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 155 | 25 | 13 | 117 |
+
