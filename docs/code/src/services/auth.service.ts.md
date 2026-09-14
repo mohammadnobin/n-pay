@@ -27,3 +27,9 @@ Source: `src/services/auth.service.ts` (43 lines)
 - `src/components/guards/AuthGuard.tsx`
 - `src/hooks/useAuth.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 43 | 1 | 0 | 42 |
+
