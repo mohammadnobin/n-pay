@@ -33,3 +33,10 @@ Source: `src/services/auth.service.ts` (43 lines)
 | --- | --- | --- | --- |
 | 43 | 1 | 0 | 42 |
 
+## Related files
+
+- `src/services/contact.service.ts`
+- `src/services/demo-data.ts`
+- `src/services/personal.service.test.ts`
+- `src/services/personal.service.ts`
+
