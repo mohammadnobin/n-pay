@@ -30,3 +30,9 @@ Source: `src/hooks/useTransactionTools.ts` (88 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 88 | 1 | 1 | 86 |
+
