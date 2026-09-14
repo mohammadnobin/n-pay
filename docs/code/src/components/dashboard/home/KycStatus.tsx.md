@@ -51,3 +51,9 @@ Source: `src/components/dashboard/home/KycStatus.tsx` (152 lines)
 
 - `src/components/dashboard/DashboardHome.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 152 | 13 | 11 | 128 |
+
