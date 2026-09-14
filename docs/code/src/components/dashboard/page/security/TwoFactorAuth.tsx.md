@@ -55,3 +55,9 @@ Source: `src/components/dashboard/page/security/TwoFactorAuth.tsx` (202 lines)
 
 - `src/app/(dashboard)/security/two-factor/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 202 | 13 | 0 | 189 |
+
