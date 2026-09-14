@@ -64,3 +64,11 @@ Source: `src/lib/utils.ts` (17 lines)
 | --- | --- | --- | --- |
 | 17 | 2 | 0 | 15 |
 
+## Related files
+
+- `src/lib/axios.ts`
+- `src/lib/metadata.ts`
+- `src/lib/provider-redirect.ts`
+- `src/lib/query-client.ts`
+- `src/lib/query-keys.ts`
+
