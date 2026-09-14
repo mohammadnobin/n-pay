@@ -57,3 +57,11 @@ Source: `src/components/dashboard/home/KycStatus.tsx` (152 lines)
 | --- | --- | --- | --- |
 | 152 | 13 | 11 | 128 |
 
+## Related files
+
+- `src/components/dashboard/home/BalanceCard.tsx`
+- `src/components/dashboard/home/ConnectWalletCard.tsx`
+- `src/components/dashboard/home/LinkedWallet.tsx`
+- `src/components/dashboard/home/RateTicker.tsx`
+- `src/components/dashboard/home/ScanPayBanner.tsx`
+
