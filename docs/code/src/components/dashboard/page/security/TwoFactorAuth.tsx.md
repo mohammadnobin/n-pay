@@ -61,3 +61,11 @@ Source: `src/components/dashboard/page/security/TwoFactorAuth.tsx` (202 lines)
 | --- | --- | --- | --- |
 | 202 | 13 | 0 | 189 |
 
+## Related files
+
+- `src/components/dashboard/page/security/ActiveSessions.tsx`
+- `src/components/dashboard/page/security/ChangePassword.tsx`
+- `src/components/dashboard/page/security/DeleteAccount.tsx`
+- `src/components/dashboard/page/security/SecurityBiometric.tsx`
+- `src/components/dashboard/page/security/TransactionPin.tsx`
+
