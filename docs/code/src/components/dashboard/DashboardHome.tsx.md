@@ -47,3 +47,9 @@ Source: `src/components/dashboard/DashboardHome.tsx` (80 lines)
 
 - `src/app/(dashboard)/dashboard/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 80 | 9 | 10 | 61 |
+
