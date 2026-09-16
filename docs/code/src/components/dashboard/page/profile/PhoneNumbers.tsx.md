@@ -59,3 +59,7 @@ Source: `src/components/dashboard/page/profile/PhoneNumbers.tsx` (167 lines)
 | --- | --- | --- | --- |
 | 167 | 9 | 0 | 158 |
 
+## Related files
+
+- `src/components/dashboard/page/profile/UserProfile.tsx`
+
