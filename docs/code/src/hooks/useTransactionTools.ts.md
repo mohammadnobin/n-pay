@@ -36,3 +36,14 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 88 | 1 | 1 | 86 |
 
+## Related files
+
+- `src/hooks/useAuth.ts`
+- `src/hooks/useContact.ts`
+- `src/hooks/useEditableProfile.ts`
+- `src/hooks/useLang.tsx`
+- `src/hooks/useNotifications.ts`
+- `src/hooks/usePersonal.ts`
+- `src/hooks/useSecurity.ts`
+- `src/hooks/useWallet.ts`
+
