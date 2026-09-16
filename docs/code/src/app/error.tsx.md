@@ -35,3 +35,10 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 18 | 1 | 0 | 17 |
 
+## Related files
+
+- `src/app/layout.tsx`
+- `src/app/not-found.tsx`
+- `src/app/robots.ts`
+- `src/app/sitemap.ts`
+
