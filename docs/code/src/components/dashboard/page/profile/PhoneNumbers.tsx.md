@@ -53,3 +53,9 @@ Source: `src/components/dashboard/page/profile/PhoneNumbers.tsx` (167 lines)
 
 - `src/app/(dashboard)/profile/phone-numbers/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 167 | 9 | 0 | 158 |
+
