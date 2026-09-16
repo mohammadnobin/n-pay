@@ -53,3 +53,9 @@ Source: `src/components/dashboard/DashboardHome.tsx` (80 lines)
 | --- | --- | --- | --- |
 | 80 | 9 | 10 | 61 |
 
+## Related files
+
+- `src/components/dashboard/DashboardShell.tsx`
+- `src/components/dashboard/NotificationsMenu.tsx`
+- `src/components/dashboard/SidebarTooltip.tsx`
+
