@@ -29,3 +29,9 @@ Source: `src/app/error.tsx` (18 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 18 | 1 | 0 | 17 |
+
