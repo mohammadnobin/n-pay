@@ -63,3 +63,9 @@ Source: `src/components/ui/button.tsx` (33 lines)
 - `src/components/share/ThemeToggle.tsx`
 - `src/components/ui/not-found.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 1 | 0 | 32 |
+
