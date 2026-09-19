@@ -38,3 +38,14 @@ Source: `src/hooks/useAuth.ts` (33 lines)
 | --- | --- | --- | --- |
 | 33 | 2 | 0 | 31 |
 
+## Related files
+
+- `src/hooks/useContact.ts`
+- `src/hooks/useEditableProfile.ts`
+- `src/hooks/useLang.tsx`
+- `src/hooks/useNotifications.ts`
+- `src/hooks/usePersonal.ts`
+- `src/hooks/useSecurity.ts`
+- `src/hooks/useTransactionTools.ts`
+- `src/hooks/useWallet.ts`
+
