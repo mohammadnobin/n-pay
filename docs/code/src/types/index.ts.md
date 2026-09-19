@@ -61,3 +61,9 @@ Source: `src/types/index.ts` (136 lines)
 - `src/services/personal.service.ts`
 - `src/store/profileStore.ts`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 136 | 1 | 15 | 120 |
+
