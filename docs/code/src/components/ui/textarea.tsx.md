@@ -18,3 +18,9 @@ Source: `src/components/ui/textarea.tsx` (16 lines)
 
 - `src/components/homepage/ContactPage.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 16 | 1 | 0 | 15 |
+
