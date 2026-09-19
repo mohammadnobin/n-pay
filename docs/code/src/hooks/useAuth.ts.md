@@ -32,3 +32,9 @@ Source: `src/hooks/useAuth.ts` (33 lines)
 - `src/components/auth/OtpForm.tsx`
 - `src/components/forms/AuthForm.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 2 | 0 | 31 |
+
