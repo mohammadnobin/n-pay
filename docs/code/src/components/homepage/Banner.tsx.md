@@ -41,3 +41,9 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 
 - `src/app/(template)/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 96 | 1 | 0 | 95 |
+
