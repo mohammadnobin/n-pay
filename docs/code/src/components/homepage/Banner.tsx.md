@@ -47,3 +47,14 @@ Source: `src/components/homepage/Banner.tsx` (96 lines)
 | --- | --- | --- | --- |
 | 96 | 1 | 0 | 95 |
 
+## Related files
+
+- `src/components/homepage/Blog.tsx`
+- `src/components/homepage/BlogMark.tsx`
+- `src/components/homepage/BlogPost.tsx`
+- `src/components/homepage/ContactPage.tsx`
+- `src/components/homepage/DownloadApp.tsx`
+- `src/components/homepage/Faq.tsx`
+- `src/components/homepage/Features.tsx`
+- `src/components/homepage/HowItWorks.tsx`
+
