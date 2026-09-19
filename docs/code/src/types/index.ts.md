@@ -67,3 +67,7 @@ Source: `src/types/index.ts` (136 lines)
 | --- | --- | --- | --- |
 | 136 | 1 | 15 | 120 |
 
+## Related files
+
+No other source files in this folder.
+
