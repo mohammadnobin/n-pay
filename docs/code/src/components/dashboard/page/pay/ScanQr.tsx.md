@@ -48,3 +48,9 @@ Source: `src/components/dashboard/page/pay/ScanQr.tsx` (69 lines)
 
 - `src/app/(dashboard)/pay/scan/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 69 | 2 | 0 | 67 |
+
