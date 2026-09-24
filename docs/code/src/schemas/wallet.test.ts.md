@@ -17,3 +17,9 @@ Source: `src/schemas/wallet.test.ts` (36 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 36 | 1 | 0 | 35 |
+
