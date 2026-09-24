@@ -44,3 +44,7 @@ Source: `src/components/guards/AuthGuard.tsx` (33 lines)
 | --- | --- | --- | --- |
 | 33 | 2 | 2 | 29 |
 
+## Related files
+
+No other source files in this folder.
+
