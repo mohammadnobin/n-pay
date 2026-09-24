@@ -42,3 +42,14 @@ Source: `src/components/share/ThemeToggle.tsx` (32 lines)
 | --- | --- | --- | --- |
 | 32 | 1 | 0 | 31 |
 
+## Related files
+
+- `src/components/share/ActivityFilterTabs.tsx`
+- `src/components/share/Brand.tsx`
+- `src/components/share/CoinIcon.tsx`
+- `src/components/share/EmptyState.tsx`
+- `src/components/share/Footer.tsx`
+- `src/components/share/IconInput.tsx`
+- `src/components/share/LanguageSwitcher.tsx`
+- `src/components/share/Navbar.tsx`
+
