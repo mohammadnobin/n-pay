@@ -36,3 +36,9 @@ Source: `src/components/share/ThemeToggle.tsx` (32 lines)
 - `src/components/share/Navbar.tsx`
 - `src/components/share/Preferences.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 32 | 1 | 0 | 31 |
+
