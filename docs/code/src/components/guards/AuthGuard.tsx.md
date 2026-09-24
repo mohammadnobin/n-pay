@@ -38,3 +38,9 @@ Source: `src/components/guards/AuthGuard.tsx` (33 lines)
 
 - `src/components/dashboard/DashboardShell.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 2 | 2 | 29 |
+
