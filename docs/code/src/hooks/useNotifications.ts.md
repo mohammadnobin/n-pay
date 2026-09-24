@@ -28,3 +28,9 @@ Source: `src/hooks/useNotifications.ts` (33 lines)
 
 - `src/components/dashboard/NotificationsMenu.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 33 | 5 | 3 | 25 |
+
