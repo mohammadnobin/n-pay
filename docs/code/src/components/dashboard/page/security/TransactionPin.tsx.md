@@ -49,3 +49,11 @@ Source: `src/components/dashboard/page/security/TransactionPin.tsx` (107 lines)
 | --- | --- | --- | --- |
 | 107 | 5 | 0 | 102 |
 
+## Related files
+
+- `src/components/dashboard/page/security/ActiveSessions.tsx`
+- `src/components/dashboard/page/security/ChangePassword.tsx`
+- `src/components/dashboard/page/security/DeleteAccount.tsx`
+- `src/components/dashboard/page/security/SecurityBiometric.tsx`
+- `src/components/dashboard/page/security/TwoFactorAuth.tsx`
+
