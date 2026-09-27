@@ -51,3 +51,7 @@ Source: `src/components/dashboard/page/kyc/KycVerification.tsx` (70 lines)
 | --- | --- | --- | --- |
 | 70 | 3 | 0 | 67 |
 
+## Related files
+
+- `src/components/dashboard/page/kyc/KycDetails.tsx`
+
