@@ -45,3 +45,9 @@ Source: `src/components/dashboard/page/kyc/KycVerification.tsx` (70 lines)
 
 - `src/app/(dashboard)/kyc/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 70 | 3 | 0 | 67 |
+
