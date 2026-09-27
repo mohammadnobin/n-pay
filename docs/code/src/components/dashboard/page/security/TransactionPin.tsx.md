@@ -43,3 +43,9 @@ Source: `src/components/dashboard/page/security/TransactionPin.tsx` (107 lines)
 
 - `src/app/(dashboard)/security/transaction-pin/page.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 107 | 5 | 0 | 102 |
+
