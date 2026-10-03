@@ -1,0 +1,389 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+:root {
+  --background: #f1f1f6;
+  --foreground: #16161c;
+  --card: #ffffff;
+  --muted: #f0f0f4;
+  --muted-foreground: #6b6b78;
+  --border: #e6e6ec;
+  --primary: #16443a;
+  --primary-foreground: #ffffff;
+  --accent: #eaf6f3;
+  --success: #128a5f;
+  --warning: #b16e10;
+  --danger: #cf3535;
+  --balance-panel: #16443a;
+  /* Mint that stays legible on the dark panel in either theme. */
+  --panel-accent: #7fdcc4;
+  /* Cards are lifted with light, not outlined with a border. */
+  --card-shadow:
+    0 1px 2px rgba(22, 22, 28, 0.03), 0 4px 12px -9px rgba(22, 22, 28, 0.16);
+  /* The sticky dashboard header floats over content: blur it, then lift it. */
+  --header-shadow:
+    0 1px 0 rgba(22, 22, 28, 0.05), 0 10px 26px -14px rgba(22, 22, 28, 0.32);
+}
+.dark {
+  --background: #0d0d12;
+  --foreground: #ececf1;
+  --card: #17171e;
+  --muted: #23232c;
+  --muted-foreground: #a0a0b0;
+  --border: #33333f;
+  --primary: #3fa690;
+  --primary-foreground: #16161c;
+  --accent: #172c27;
+  --success: #5fd4a8;
+  --warning: #f2bb64;
+  --danger: #ff7a7a;
+  --balance-panel: #20614f;
+  --panel-accent: #9fe8d2;
+  --card-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.28), 0 6px 16px -12px rgba(0, 0, 0, 0.6);
+  --header-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.45), 0 12px 30px -16px rgba(0, 0, 0, 0.85);
+  color-scheme: dark;
+}
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+  --shadow-card: var(--card-shadow);
+  --shadow-header: var(--header-shadow);
+  --font-sans:
+    var(--font-figtree), ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+}
+button,
+input,
+select {
+  font: inherit;
+}
+button,
+a,
+input,
+select,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+button,
+a,
+select,
+summary {
+  touch-action: manipulation;
+}
+::selection {
+  background: #cfe9e2;
+  color: #0b2b23;
+}
+.dark ::selection {
+  background: #1f5a4c;
+  color: #e6f7f2;
+}
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+  letter-spacing: -0.035em;
+}
+a {
+  text-decoration: none;
+}
+button:not(:disabled),
+summary {
+  cursor: pointer;
+}
+select {
+  max-width: 100%;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th {
+  text-align: start;
+  font-weight: 600;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+  letter-spacing: 0.07em;
+}
+tbody tr {
+  transition: background-color 0.15s ease;
+}
+th,
+td {
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+td {
+  font-size: 0.875rem;
+}
+@layer components {
+  .eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--muted-foreground);
+  }
+}
+@layer components {
+  .field-label {
+    display: block;
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  .field-error {
+    color: var(--danger);
+    font-size: 0.875rem;
+    margin-top: 0.375rem;
+  }
+  .page-title {
+    font-size: clamp(1.75rem, 3vw, 2.15rem);
+    font-weight: 700;
+  }
+  .section-title {
+    font-size: 1.125rem;
+    font-weight: 650;
+  }
+  .icon-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 0.875rem;
+    background: var(--muted);
+    flex-shrink: 0;
+  }
+  .skip-link {
+    position: fixed;
+    top: -5rem;
+    inset-inline-start: 1rem;
+    z-index: 100;
+    background: var(--card);
+    padding: 1rem;
+  }
+  .skip-link:focus {
+    top: 1rem;
+  }
+}
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3 {
+  letter-spacing: 0;
+}
+/* Ambient motion. Every one of these is decorative and sits on an
+   `aria-hidden` layer, so the reduced-motion block below switches the whole
+   set off without taking any meaning with it. */
+@keyframes nomi-drift {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  33% {
+    transform: translate3d(6%, -7%, 0) scale(1.09);
+  }
+  66% {
+    transform: translate3d(-5%, 5%, 0) scale(0.94);
+  }
+}
+@keyframes nomi-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-14px);
+  }
+}
+@keyframes nomi-halo {
+  0%,
+  100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.85;
+    transform: scale(1.2);
+  }
+}
+@keyframes nomi-orbit {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes nomi-pulse-ring {
+  0% {
+    transform: scale(0.8);
+    opacity: 0.6;
+  }
+  70% {
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.7);
+    opacity: 0;
+  }
+}
+@keyframes nomi-dash {
+  to {
+    background-position: 18px 0;
+  }
+}
+@keyframes nomi-sheen {
+  from {
+    background-position: -160% 0;
+  }
+  to {
+    background-position: 260% 0;
+  }
+}
+@keyframes nomi-zoom {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+}
+.anim-drift {
+  animation: nomi-drift 20s ease-in-out infinite;
+}
+.anim-bob {
+  animation: nomi-bob 7s ease-in-out infinite;
+}
+.anim-halo {
+  animation: nomi-halo 8s ease-in-out infinite;
+}
+.anim-orbit {
+  animation: nomi-orbit 48s linear infinite;
+}
+.anim-pulse-ring {
+  animation: nomi-pulse-ring 3.4s ease-out infinite;
+}
+.anim-zoom {
+  animation: nomi-zoom 24s ease-in-out infinite;
+}
+/* A row of dashes that travels, so a connector reads as flow rather than
+   decoration. Sized in the class so the keyframe stays in step. */
+.anim-dash {
+  background-image: repeating-linear-gradient(
+    to right,
+    var(--border) 0 9px,
+    transparent 9px 18px
+  );
+  background-size: 18px 1px;
+  background-repeat: repeat-x;
+  animation: nomi-dash 1.4s linear infinite;
+}
+[dir="rtl"] .anim-dash {
+  animation-direction: reverse;
+}
+.anim-sheen {
+  background-image: linear-gradient(
+    115deg,
+    transparent 38%,
+    color-mix(in oklab, var(--foreground) 10%, transparent) 50%,
+    transparent 62%
+  );
+  background-size: 260% 100%;
+  background-repeat: no-repeat;
+  animation: nomi-sheen 5.5s ease-in-out infinite;
+}
+
+/* Scroll reveals are a progressive enhancement: without scripting the
+   observer never runs, so the finished state is what gets painted. */
+@media (scripting: none) {
+  [data-reveal] {
+    opacity: 1;
+    translate: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition: none !important;
+    animation: none !important;
+  }
+}
+.ticker {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 7rem,
+    #000 calc(100% - 5rem),
+    transparent
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 7rem,
+    #000 calc(100% - 5rem),
+    transparent
+  );
+}
+.ticker-track {
+  display: flex;
+  width: max-content;
+  animation: ticker-scroll 45s linear infinite;
+}
+[dir="rtl"] .ticker-track {
+  animation-name: ticker-scroll-rtl;
+}
+.ticker:hover .ticker-track,
+.ticker:focus-within .ticker-track {
+  animation-play-state: paused;
+}
+@keyframes ticker-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+@keyframes ticker-scroll-rtl {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(50%);
+  }
+}
