@@ -25,3 +25,13 @@ Source: `src/app/(dashboard)/pay/quote/page.tsx` (9 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 9 | 3 | 0 | 6 |
+
+## Related files
+
+No other source files in this folder.
+
