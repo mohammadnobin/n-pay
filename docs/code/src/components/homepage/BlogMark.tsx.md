@@ -15,3 +15,9 @@ Source: `src/components/homepage/BlogMark.tsx` (26 lines)
 - `src/components/homepage/Blog.tsx`
 - `src/components/homepage/BlogPost.tsx`
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 26 | 1 | 2 | 23 |
+
