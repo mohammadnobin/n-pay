@@ -33,3 +33,9 @@ Source: `src/components/dashboard/home/ConnectWalletCard.tsx` (29 lines)
 
 Not imported by any other source file (entry point or standalone).
 
+## Stats
+
+| Lines | Blank | Comment | Code |
+| --- | --- | --- | --- |
+| 29 | 2 | 2 | 25 |
+
