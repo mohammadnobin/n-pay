@@ -39,3 +39,11 @@ Not imported by any other source file (entry point or standalone).
 | --- | --- | --- | --- |
 | 29 | 2 | 2 | 25 |
 
+## Related files
+
+- `src/components/dashboard/home/BalanceCard.tsx`
+- `src/components/dashboard/home/KycStatus.tsx`
+- `src/components/dashboard/home/LinkedWallet.tsx`
+- `src/components/dashboard/home/RateTicker.tsx`
+- `src/components/dashboard/home/ScanPayBanner.tsx`
+
